@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===================================== Title & Text =====================================-->
+    <!-- Common -->
+    <string name="common_text_yes">はい</string>
+    <string name="common_text_no">いいえ</string>
+    <string name="common_text_ok">確認</string>
+    <string name="common_text_comm_name">コミュニティ名</string>
+    <string name="common_text_favorite">コミュニティ名</string>
+    <string name="common_text_org">部署</string>
+    <string name="common_text_org_member">部署員</string>
+    <string name="common_text_email">メール</string>
+    <string name="common_text_introduction">紹介</string>
+    <string name="common_text_public">公開</string>
+    <string name="common_text_private">プライベート</string>
+    <string name="common_text_date">日時</string>
+    <string name="common_text_place">場所</string>
+    <string name="common_text_start">開始</string>
+    <string name="common_text_finish">終了</string>
+    <string name="common_text_search">検索</string>
+    <string name="common_text_none">なし</string>
+    <string name="common_text_update">업데이트</string>
+    <string name="common_text_required">Required</string>
+    <string name="common_text_subscribe">Subscribe</string>
+
+    <!-- Navigation -->
+    <string name="nav_title_home">ホーム</string>
+    <string name="nav_title_community">コミュニティ</string>
+    <string name="nav_title_messenger">チャット</string>
+    <string name="nav_title_alarm">通知</string>
+    <string name="nav_title_more">もっと見る</string>
+    <string name="nav_title_find_account">アカウント検索</string>
+    <string name="nav_title_find_id">ID 検索</string>
+    <string name="nav_title_find_pw">パスワード検索</string>
+    <string name="nav_title_reqcert">機器認証の変更申請</string>
+    <string name="nav_title_all_feeds">一覧</string>
+    <string name="nav_title_unread_feeds">未読フィード</string>
+    <string name="nav_title_favor_feeds">関心フィード</string>
+    <string name="nav_title_my_comm">私のコミュニティ</string>
+    <string name="nav_title_my_act">私の活動</string>
+    <string name="nav_title_my_write">私が作成した投稿</string>
+    <string name="nav_title_my_react">私が反応した投稿</string>
+    <string name="nav_title_my_share">私が共有した投稿</string>
+    <string name="nav_title_shared_me">私に共有された投稿</string>
+    <string name="nav_title_create_community">コミュニティ開設</string>
+    <string name="nav_title_basicinfo">基本情報</string>
+    <string name="nav_title_manage_member">会員管理</string>
+    <string name="nav_title_accept_join">登録承認</string>
+    <string name="nav_title_select_doc">文書ファイルの選択</string>
+    <string name="nav_title_myinquiry">私のお問い合わせ内容</string>
+    <string name="nav_title_search_total">統合検索</string>
+    <string name="nav_title_search_feed">投稿検索</string>
+    <string name="nav_title_search_user">ユーザー検索</string>
+    <string name="nav_title_my_page">マイページ</string>
+    <string name="nav_title_calendar">カレンダー</string>
+    <string name="nav_title_notice">お知らせ</string>
+    <string name="nav_title_invite_comm">コミュニティ招待</string>
+    <string name="nav_title_write_basic">記事の作成</string>
+    <string name="nav_title_write_survey">アンケートの作成</string>
+    <string name="nav_title_write_schedule">スケジューリング</string>
+    <string name="nav_title_write_todo">やるべきことの作成</string>
+    <string name="nav_title_write_share">共有記事の作成</string>
+    <string name="nav_title_feed_detail">フィードの詳細</string>
+    <string name="nav_title_check_members">閲覧した人数</string>
+    <string name="nav_title_shared_scope_person">共有された人数</string>
+    <string name="nav_title_sharetarget">登録位置</string>
+    <string name="nav_title_select_community">コミュニティの選択</string>
+    <string name="nav_title_operator">オペレータ</string>
+    <string name="nav_title_msg_invite">チャット相手の招待</string>
+    <string name="nav_title_msg_create">チャットルームの作成</string>
+    <string name="nav_title_update_reply">コメントの修正</string>
+    <string name="nav_title_search_community">コミュニティ検索</string>
+    <string name="nav_title_select_cover">カバー画像の選択</string>
+    <string name="nav_title_select_icon">アイコン画像の選択</string>
+    <string name="nav_title_manage_community">コミュニティ管理</string>
+    <string name="nav_title_manage_file">添付ファイル</string>
+    <string name="nav_title_msg_member_set">会員管理</string>
+    <string name="nav_title_msg_change_name">チャットルームの名前変更</string>
+    <string name="nav_title_wrotten_feed">作成記事を読む</string>
+    <string name="nav_title_setting">設定</string>
+    <string name="nav_title_set_simple_password">簡単番号設定</string>
+    <string name="nav_title_set_pattern">パターン設定</string>
+    <string name="nav_title_inquiry_detail">お問い合わせの詳細</string>
+    <string name="nav_title_my_inquiry">문의하기/나의 문의내역</string>
+    <string name="nav_title_inquiries">문의글</string>
+    <string name="nav_title_reset_deviceid">기기 변경 요청 관리</string>
+    <string name="nav_title_file_org">조직</string>
+    <string name="nav_title_file_comm">커뮤니티</string>
+    <string name="nav_title_file_msg">대화방</string>
+    <string name="nav_title_file_filter">정렬 설정</string>
+
+    <!-- Menu -->
+    <string name="menu_text_cancel">キャンセル</string>
+    <string name="menu_text_change">変更</string>
+    <string name="menu_text_save">保存</string>
+    <string name="menu_text_create">生成</string>
+    <string name="menu_text_create_msger">チャットする</string>
+    <string name="menu_text_add_favorite">お気に入りに追加</string>
+    <string name="menu_text_invite">招待</string>
+    <string name="menu_text_all_graph_org">全社組織図</string>
+    <string name="menu_text_reaction">反応順</string>
+    <string name="menu_text_creation">登録順</string>
+    <string name="menu_text_whole_comm">コミュニティ全体</string>
+    <string name="menu_text_favorite_comm">お気に入りのコミュニティ</string>
+    <string name="menu_text_popular_comm">人気のコミュニティ</string>
+    <string name="menu_text_latest_comm">最新のコミュニティ</string>
+    <string name="menu_text_my_org">私の組織</string>
+    <string name="menu_text_post">掲示</string>
+    <string name="menu_text_detail">詳細</string>
+    <string name="menu_text_noti_readall">すべて既読</string>
+    <string name="menu_text_calendar_basic">カレンダー型</string>
+    <string name="menu_text_calendar_list">リスト型</string>
+    <string name="menu_text_calendar_sync">동기화</string>
+    <string name="menu_text_search_user">이름 검색</string>
+    <string name="menu_text_all_schedules">All Schedules</string>
+    <string name="menu_text_my_schedules">My Schedules</string>
+
+    <!-- Util -->
+    <string name="util_text_how_file_handle">どのような操作をしたいですか？</string>
+    <string name="util_text_download">ダウンロード</string>
+    <string name="util_text_preview">プレビュー</string>
+    <string name="util_text_selected_image">選択された画像です.</string>
+    <string name="util_text_start">開始時間</string>
+    <string name="util_text_finish">終了時間</string>
+    <string name="util_text_select_target">下のメニューから対象を選択してください.</string>
+    <string name="util_text_download_image">私の写真箱にダウンロード</string>
+    <string name="util_text_show_flower">플라워 보기</string>
+    <string name="util_text_widget_shorcut">티그리스 바로가기</string>
+    <string name="util_text_crop">자르기</string>
+    <string name="util_text_rotate">회전</string>
+
+    <!-- Login -->
+    <string name="intro_text_login_find_idpw">ID, パスワード検索</string>
+    <string name="intro_text_login_findid">ID 検索</string>
+    <string name="intro_text_login_findpw">パスワード検索</string>
+    <string name="intro_text_login_find_account">ID, パスワードは本人の会社のメールアドレスに送信されます.\n本人の確認のために正確な情報を入力した後, \nID, パスワード検索を押してください.</string>
+    <string name="intro_text_login_change_device">기기인증은 사이트 운영자 승인후 처리됩니다.\n처리 된 후 등록된 개인 이메일로 승인 결과를 알려드립니다\n</string>
+    <string name="intro_text_version_check_message">新しいバージョンがあります.更新しますか？</string>
+    <string name="intro_text_request_change_device">すでに認証されたデバイス情報があります.\n機器認証の変更申請画面に\n移動しますか？</string>
+    <string name="intro_text_change_site">から新しい通知が届きました.切り替えますか？</string>
+    <string name="intro_text_underconstruction_title">시스템 점검중</string>
+    <string name="intro_text_underconstruction_sub">보다 나은 티그리스를 위해 점검중입니다.\n시스템 점검 시간 동안 서비스 이용이 불가능하오니 양해부탁드립니다.</string>
+    <string name="intro_text_force_update">티그리스4.0 업데이트 안내입니다.\n\n최신 버전으로 업데이트 하시면, 더욱 안정적이고 빠른 성능이 보장됩니다.\n최신 버전으로 업데이트 하셔야 계속 사용이 가능하십니다.\n감사합니다.\n\n티그리스 서비스센터</string>
+
+    <!-- Feed -->
+    <string name="feed_text_check">照会</string>
+    <string name="feed_text_like">いいね</string>
+    <string name="feed_text_unlike">いいね キャンセル</string>
+    <string name="feed_text_reply">コメント</string>
+    <string name="feed_text_share">共有</string>
+    <string name="feed_text_link">リンク情報</string>
+    <string name="feed_text_add_link">リンク追加</string>
+    <string name="feed_text_attachedfile">添付ファイル</string>
+    <string name="feed_text_attachedimage">画像</string>
+    <string name="feed_text_no_more_feed">これ以上表示するフィードがありません</string>
+    <string name="feed_text_feed_state">重要度</string>
+    <string name="feed_text_add_title">タイトルの追加＋</string>
+    <string name="feed_text_attendee">参加者</string>
+    <string name="feed_text_absentee">欠席者</string>
+    <string name="feed_text_noanswer">米回答</string>
+    <string name="feed_text_myanswer">私の参加可否</string>
+    <string name="feed_text_sharedinfo1">様が&#160;</string>
+    <string name="feed_text_sharedinfo2">様の投稿を共有する</string>
+    <string name="feed_text_show_all_reply">コメント一覧</string>
+    <string name="feed_text_show_more_reply">コメントをもっと見る</string>
+    <string name="feed_text_sender">送信者</string>
+    <string name="feed_text_receiver">受信者</string>
+    <string name="feed_text_cc">参照</string>
+    <string name="feed_text_bcc">숨은 참조</string>
+    <string name="feed_text_copyfeed">본문 복사</string>
+    <string name="feed_text_copy">コピー</string>
+    <string name="feed_text_modify">修正</string>
+    <string name="feed_text_delete">削除</string>
+    <string name="feed_text_whole_period">すべての期間</string>
+    <string name="feed_text_whole_community">すべての組織とコミュニティ</string>
+    <string name="feed_text_survey_open_result">結果公開</string>
+    <string name="feed_text_survey_close_result">結果非公開</string>
+    <string name="feed_text_survey_open_list">参加者公開</string>
+    <string name="feed_text_survey_close_list">参加者非公開</string>
+    <string name="feed_text_single_select">単一選択</string>
+    <string name="feed_text_multiple_select">重複選択</string>
+    <string name="feed_text_deleting_feed">フィードが削除されます. 削除しますか？</string>
+    <string name="feed_text_deleting_reply">コメントが削除されます. 削除しますか？</string>
+    <string name="feed_text_new_feed">새글이 등록되었습니다</string>
+    <string name="feed_text_new_reply">새댓글이 등록되었습니다</string>
+
+    <!-- Writing -->
+    <string name="writing_text_add_item">項目の追加</string>
+    <string name="writing_text_survey_result">結果</string>
+    <string name="writing_text_survey_close">プライベート</string>
+    <string name="writing_text_survey_expired_date">アンケート終了日</string>
+    <string name="writing_text_survey_multi_select">項目の重複選択</string>
+    <string name="writing_text_todo_date">やるべきこと 時間</string>
+    <string name="writing_text_schedule_noti">事前通知</string>
+    <string name="writing_text_finish">作成中の内容が削除されます. 退室しますか？</string>
+    <string name="writing_text_shart_target">등록위치를 선택하세요</string>
+    <string name="writing_text_only_preview">미리보기 체크시 미리보기만 가능합니다.</string>
+
+    <!-- Community -->
+    <string name="comm_text_community_open">コミュニティ公開可否</string>
+    <string name="comm_text_community_type">コミュニティの種類</string>
+    <string name="comm_text_community_join_type">登録方法</string>
+    <string name="comm_text_community_join_state">登録状態</string>
+    <string name="comm_text_general_community">一般コミュニティ</string>
+    <string name="comm_text_notice_community">お知らせ コミュニティ</string>
+    <string name="comm_text_join_rightafter">申し込み後すぐに登録</string>
+    <string name="comm_text_join_after_accept">承認後に登録</string>
+    <string name="comm_text_waiting_join">承認待ち</string>
+    <string name="comm_text_ask_operator">管理者に連絡</string>
+    <string name="comm_text_add_target">追加対象</string>
+    <string name="comm_text_add_member">個人ユーザーを追加</string>
+    <string name="comm_text_add_org_graph">組織図の連動追加</string>
+    <string name="comm_text_force_dropout">強制退会</string>
+    <string name="comm_text_refuse_request">登録返戻</string>
+    <string name="comm_text_community_members">登録メンバー</string>
+    <string name="comm_text_creator">コンストラクタ</string>
+    <string name="comm_text_member">会員</string>
+    <string name="comm_text_join">登録</string>
+    <string name="comm_text_notjoin">未登録</string>
+    <string name="comm_text_dropout">脱退</string>
+    <string name="comm_text_general">一般</string>
+    <string name="comm_text_notice">お知らせ</string>
+    <string name="comm_text_do_you_want_to_leave">Do you want to leave?</string>
+    
+    <!--Messenger-->
+    <string name="msg_text_system">システムメッセージ出力</string>
+    <string name="msg_text_set">チャットルームの設定</string>
+    <string name="msg_text_exit">退室</string>
+    <string name="msg_text_alarm_off">チャットルームのアラームオフ</string>
+    <string name="msg_text_groupname">チャットルームの名前を入力してください</string>
+    <string name="msg_text_deleting_group">本当にルームから退室しますか？</string>
+    <string name="msg_text_sticker_download">이모티콘을 사용하려면 다운로드하십시오. \n 3G / LTE 등 데이터 통신 요금이 부과 될 수 있습니다.</string>
+    <string name="msg_text_search_hint">파일명으로 검색</string>
+    <string name="msg_text_file_view">파일 모아보기</string>
+    <string name="msg_text_chat_people">대화상대 보기</string>
+    <string name="msg_text_chat_change_name">대화방 이름 변경</string>
+    <string name="msg_text_share_file">파일을 공유해보세요!</string>
+    <string name="msg_text_no_file">공유된 파일이 없습니다.</string>
+    <string name="msg_text_no_search">검색 결과가 없습니다.</string>
+    <string name="msg_text_search_end">마지막 검색 결과입니다.</string>
+    <string name="msg_text_withdrawal">정말 탈퇴 시키시겠습니까?</string>
+    <string name="msg_room_withdrawal">해당 방에서 강제탈퇴 되었습니다.</string>
+
+    <!-- Notification -->
+    <string name="noti_text_feed">フィード通知</string>
+    <string name="noti_text_reply">コメント通知</string>
+    <string name="noti_text_community">コミュニティ通知</string>
+    <string name="noti_text_messenger">メッセンジャー通知</string>
+    <string name="noti_text_email">メール通知</string>
+    <string name="noti_text_approval">電子決裁通知</string>
+    <string name="noti_text_customer">고객센터 알림</string>
+    <string name="noti_text_request_reset_device">기기 인증 변경 요청</string>
+    <string name="more_text_no_more_notification">더 이상 표시할 알림 내역이 없습니다</string>
+
+    <!-- Profile -->
+    <string name="profile_text_mobilenum">携帯電話番号</string>
+    <string name="profile_text_email_address">メールアドレス</string>
+    <string name="profile_text_privateemail_address">Private Email Address</string>
+    <string name="profile_text_empno">社員番号</string>
+    <string name="profile_text_job">担当業務</string>
+    <string name="profile_text_birth">誕生日</string>
+    <string name="profile_text_chat">会話する</string>
+    <string name="profile_text_call">電話をかける</string>
+    <string name="profile_text_send_text">文字を送る</string>
+    <string name="profile_text_save_phone">連絡先保存</string>
+
+    <!-- Calendar -->
+    <string name="cal_text_all_day">一日中</string>
+
+    <!-- More & Setting -->
+    <!--Setting-->
+    <string name="more_text_change_profile">プロフィールの修正</string>
+    <string name="more_text_change_site">サイトの変更</string>
+    <string name="more_text_current_site">現在のサイト</string>
+    <string name="more_text_changing_site">サイト選択</string>
+    <string name="more_text_private_setting">個人情報</string>
+    <string name="more_text_all_graph_org">Company organization</string>
+    <string name="more_text_logout">ログアウト</string>
+    <string name="more_text_approval">電子決裁</string>
+    <string name="more_text_todo">やるべきこと</string>
+    <string name="more_text_feed_type">投稿の種類</string>
+    <string name="more_text_search_boundary">検索範囲</string>
+    <string name="more_text_about_tigris">チグリスとは</string>
+    <string name="more_text_versionInfo">バージョン情報</string>
+    <string name="more_text_lab">チグリス実験室</string>
+    <string name="more_text_setting_lock">ロック解除方法</string>
+    <string name="more_text_set_password">パスワードの設定</string>
+    <string name="more_text_new_password">新規パスワード</string>
+    <string name="more_text_current_password">既存パスワード</string>
+    <string name="more_text_password_fullchange">全体パスワードの変更</string>
+    <string name="more_text_apply_alarm">通知の変更適用</string>
+    <string name="more_text_pinlock_current_pw">既存の簡単番号を入力してください.</string>
+    <string name="more_text_pinlock_new_pw">新しい簡単番号を入力してください.</string>
+    <string name="more_text_pinlock_new_pw_onemore">新しい簡単番号をもう一度入力してください.</string>
+    <string name="more_text_pattern_current">既存のパターンを入力してください.</string>
+    <string name="more_text_pattern_new">ロック解除パターンを登録してください.</string>
+    <string name="more_text_pattern_new_onemore">新しいパターンをもう一度入力してください</string>
+    <string name="more_text_auto_login">自動ログイン</string>
+    <string name="more_text_alarm_mode">通知方式</string>
+    <string name="more_text_block_alarm">妨害禁止時間</string>
+    <string name="more_text_alarm_no_time">時間選択</string>
+    <string name="more_text_alarm_system">システム</string>
+    <string name="more_text_alarm_comm_set">すべてのコミュニティ別の通知</string>
+    <string name="more_text_alarm_newfeed">最新記事</string>
+    <string name="more_text_alarm_comment">コメント</string>
+    <string name="more_text_alarm_like">いいね！</string>
+    <string name="more_text_no_more_inquiry">これ以上表示するお問い合わせ内容がありません</string>
+    <string name="more_text_done">完了</string>
+    <string name="more_text_notyet">未完了</string>
+    <string name="more_text_inquiry_done">お問い合わせ完了可否</string>
+    <string name="more_text_problem_type">問題発生場所</string>
+    <string name="more_text_problem_device">端末の種類</string>
+    <string name="more_text_problem_browser">ブラウザの種類</string>
+    <string name="more_text_problem_detail">お問い合わせ内容</string>
+    <string name="more_text_no_more_devices">더 이상 기기 변경 요청한 내역이 없습니다</string>
+    <string name="more_text_release_id">해제</string>
+    <string name="more_text_file_view">파일보기</string>
+    <string name="more_text_msg_file_view">대화방 파일</string>
+    <string name="more_text_comm_file_view">커뮤니티 파일</string>
+    <string name="more_text_org_file_view">조직 파일</string>
+    <string name="more_text_file_ext">파일 형식</string>
+    <string name="more_text_file_all">전체</string>
+    <string name="more_text_file_img">사진/동영상</string>
+    <string name="more_text_file_doc">일반 파일</string>
+    <string name="more_text_file_social">소유자</string>
+    <string name="more_text_file_mine">내 파일</string>
+    <string name="more_text_file_sorting">정렬</string>
+    <string name="more_text_file_sort_name">이름 순</string>
+    <string name="more_text_file_sort_createdt">생성 날짜 순</string>
+    <string name="more_text_file_sort_desc">내림차순</string>
+    <string name="more_text_file_sort_aesc">오름차순</string>
+    <string name="more_text_file_no_pre_down">미리보기 및 다운로드를 할 수 없는 파일입니다.</string>
+    <string name="more_text_debug_config">디버그 설정</string>
+    <!-- ======================================================================================= -->
+
+    <!-- ========================================= Hint =========================================-->
+    <!-- Login -->
+    <string name="hint_login_id">ログインID</string>
+    <string name="hint_login_name">名前</string>
+    <string name="hint_login_mobile">携帯電話番号（例えば, 010-1234-5678）</string>
+    <string name="hint_login_email">個人のメールアドレス</string>
+    <string name="hint_login_reqcert_reason">機器認証の変更理由</string>
+
+    <!-- Feed -->
+    <string name="hint_write_feed">内容を記入してください (Required)</string>
+    <string name="hint_write_reply">コメントを書いてください.</string>
+    <string name="hint_write_title">タイトルを作成してください</string>
+    <string name="hint_write_title_required">タイトルを作成してください (Required)</string>
+
+    <!--<Messenger>-->
+    <string name="hint_msg_text_search">대화내용 검색</string>
+
+    <!-- Community -->
+    <string name="hint_comm_name">コミュニティ名を入力してください.</string>
+    <string name="hint_comm_intro">コミュニティの紹介</string>
+
+    <!-- Setting -->
+    <string name="hint_current_password">既存のパスワードを入力してください.</string>
+    <string name="hint_password_onemore">もう一度入力してください.</string>
+    <string name="hint_password_6letter">신규 비밀번호를 입력해주세요</string>
+    <string name="hint_file_writer_search">소유자명으로 검색</string>
+    <string name="hint_file_name_search">파일명으로 검색</string>
+    <!-- ======================================================================================= -->
+
+    <!-- ========================================= Snack & Toast =========================================-->
+    <string name="pop_quit_backbutton">[戻る]ボタンをもう一度押すと, アプリが終了します.</string>
+    <string name="pop_networkerror">ネットワーク接続が円滑でないです.</string>
+    <string name="pop_networkerror_while_uploading">アップロード中にネットワークの問題が発生しました.</string>
+    <string name="pop_inner_problem">内部的に問題が発生しました.</string>
+    <string name="pop_temporary_problem">一時的に問題が発生しました.</string>
+    <string name="pop_fail_to_logout">一時的に問題が発生して, ログアウトできませんでした.</string>
+    <string name="pop_fail_to_send_reply">일시적으로 문제가 발생하여 댓글을 전송하지 못했습니다</string>
+    <string name="pop_missing_password">パスワードを入力してください.</string>
+    <string name="pop_missing_email">Emailを入力してください.</string>
+    <string name="pop_password_check">別ルートでパスワードが変更されました.\n変更されたパスワードを入力してください.</string>
+    <string name="pop_fail_to_change_profile">更新されていません.プロフィールの項目を再確認してください.</string>
+    <string name="pop_fail_to_change_password">パスワードを再確認してください.</string>
+    <string name="pop_nophone">携帯電話番号が存在しません.</string>
+    <string name="pop_nocontactinfo">連絡先がありません.</string>
+    <string name="pop_no_attached_image">選択した画像がデバイスに存在しません.</string>
+    <string name="pop_image_not_allowed">添付できるファイル形式（jpg, png）</string>
+    <string name="pop_file_not_allowed">添付できるファイル形式（xls, xlsx, ppt, pptx, doc, docx, pdf, hwp, txt）</string>
+    <string name="pop_limit_10">画像/ファイルは10枚以上選択することができません.</string>
+    <string name="pop_limit_size">첨부한 이미지/파일이 %1$s MB를 초과하였으니, %2$s MB 이하로 첨부해주세요</string>
+    <string name="pop_no_more_reply">コメントは, これ以上ありません.</string>
+    <string name="pop_no_content">内容を入力してください</string>
+    <string name="pop_no_link_info">未知のLink情報</string>
+    <string name="pop_insert_link_later">現在Link情報を読み取れないため, 投稿するときに情報を更新します.</string>
+    <string name="pop_fail_register_gcm">通知の登録に失敗しました.再ログインをしてください.</string>
+    <string name="pop_not_set_up_calendar">カレンダー設定ができていません.</string>
+    <string name="pop_no_notifications">通知の履歴がありません.</string>
+    <string name="pop_need_content">項目を作成してください.</string>
+    <string name="pop_select_targets">対象を選択してください.</string>
+    <string name="pop_no_more_child">所属メンバーや組織が存在しません.</string>
+    <string name="pop_no_keyword_to_be_searched">検索内容を入力しませんでした.</string>
+    <string name="pop_no_new_password">新しいパスワードを入力してください.</string>
+    <string name="pop_incorrect_password">パスワードが違います.</string>
+    <string name="pop_try_to_login_again">パスワードが変更されました.再ログインしてください.</string>
+    <string name="pop_password_register">簡単番号ロックが設定されました.</string>
+    <string name="pop_check_pw_overtimes">既存の簡単番号が3回失敗しました.再度ログインしてください.</string>
+    <string name="pop_check_pattern_overtimes">既存のパターンが3回一致しません.再度ログインしてください.</string>
+    <string name="pop_try_to_input_new_pin">パスワードが一致しません.₩nもう一度パスワードを入力してください.</string>
+    <string name="pop_pattern_short">少なくとも4つ以上の点を入力してください.</string>
+    <string name="pop_pattern_register">パターンロックが設定されました.</string>
+    <string name="pop_pattern_incorrect">パターンが違います.もう一度お試しください.</string>
+    <string name="pop_no_feed">フィードは削除されたか, 存在しません.</string>
+    <string name="pop_success_find_id">作成したメールにＩＤが送信されました.</string>
+    <string name="pop_success_find_pw">作成したメールにパスワードが送信されました.</string>
+    <string name="pop_success_request_device_auth">会社のメールにデバイスの変更要請をしました.</string>
+    <string name="pop_problem_email">メールのページに問題が発生しました.</string>
+    <string name="pop_is_not_email_user">メールサービスを申請すると使用可能です.</string>
+    <string name="pop_is_not_approval_user">電子決裁サービスを申請すると使用可能です.</string>
+    <string name="pop_success_change_alarm">通知の設定を適用しました.</string>
+    <string name="pop_is_preparing">サービス準備中です.</string>
+    <string name="pop_downloading">サービス準備中です.</string>
+    <string name="pop_success_download">%1$s 다운로드 완료 되었습니다</string>
+    <string name="pop_fail_download">%1$s 다운로드 도중 실패 하였습니다</string>
+    <string name="pop_msg_change_name">チャットルームの名前を入力してください.</string>
+    <string name="pop_added_text_to_clipboard">클립보드에 텍스트가 복사되었습니다</string>
+    <string name="pop_sync_calendar">%1$s년 %2$s월의 일정과 동기화를 시작합니다</string>
+    <string name="pop_success_sync_calendar">동기화가 완료되었습니다</string>
+    <string name="pop_disconnect_websocket">네트웍이 불안정하여 상대방의 메세지를 받지 못할 수도 있습니다. 다시 방을 방문해 주세요</string>
+    <string name="pop_outsider_cannot_chat">외부 사용자는 이 기능을 사용할 수 없습니다</string>
+    <string name="pop_flower_permissions">전화 걸기 기능을 사용하기 위해서는 권한을 부여하여야 합니다</string>
+    <string name="pop_file_permissions">파일을 첨부하기 위해서는 권한을 부여하여야 합니다</string>
+    <string name="pop_download_file_permissions">파일을 다운로드 하기 위해서는 권한을 부여하여야 합니다</string>
+    <string name="pop_this_service_permissions">이 기능을 사용하기 위해서는 권한을 부여하여야 합니다</string>
+    <string name="pop_set_permission">권한 부여</string>
+    <string name="pop_temporary_problem_after_logout">로그인 정보가 유효하지 않아 더 이상 진행할 수 없습니다. 재로그인 해주세요</string>
+    <string name="pop_you_do_not_have_access">You do not have access</string>
+    <string name="pop_failed_to_save_post">Failed to save post</string>
+
+    <string name="format_MMddyyyy_hhmm">%1$s/%2$s/%3$s, %4$s:%5$s</string>
+    <string name="format_MMddyy_hhmm">%1$s/%2$s/%3$s %4$s:%5$s</string>
+    <!-- ======================================================================================= -->
+</resources>

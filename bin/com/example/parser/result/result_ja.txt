@@ -1,0 +1,389 @@
+	common_text_yes	ja	はい	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_no	ja	いいえ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_ok	ja	確認	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_comm_name	ja	コミュニティ名	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_favorite	ja	コミュニティ名	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_org	ja	部署	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_org_member	ja	部署員	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_email	ja	メール	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_introduction	ja	紹介	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_public	ja	公開	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_private	ja	プライベート	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_date	ja	日時	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_place	ja	場所	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_start	ja	開始	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_finish	ja	終了	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_search	ja	検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_none	ja	なし	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_update	ja	업데이트	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_required	ja	Required	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_subscribe	ja	Subscribe	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_home	ja	ホーム	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_community	ja	コミュニティ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_messenger	ja	チャット	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_alarm	ja	通知	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_more	ja	もっと見る	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_find_account	ja	アカウント検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_find_id	ja	ID 検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_find_pw	ja	パスワード検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_reqcert	ja	機器認証の変更申請	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_all_feeds	ja	一覧	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_unread_feeds	ja	未読フィード	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_favor_feeds	ja	関心フィード	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_comm	ja	私のコミュニティ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_act	ja	私の活動	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_write	ja	私が作成した投稿	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_react	ja	私が反応した投稿	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_share	ja	私が共有した投稿	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_shared_me	ja	私に共有された投稿	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_create_community	ja	コミュニティ開設	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_basicinfo	ja	基本情報	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_manage_member	ja	会員管理	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_accept_join	ja	登録承認	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_select_doc	ja	文書ファイルの選択	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_myinquiry	ja	私のお問い合わせ内容	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_search_total	ja	統合検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_search_feed	ja	投稿検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_search_user	ja	ユーザー検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_page	ja	マイページ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_calendar	ja	カレンダー	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_notice	ja	お知らせ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_invite_comm	ja	コミュニティ招待	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_basic	ja	記事の作成	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_survey	ja	アンケートの作成	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_schedule	ja	スケジューリング	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_todo	ja	やるべきことの作成	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_share	ja	共有記事の作成	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_feed_detail	ja	フィードの詳細	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_check_members	ja	閲覧した人数	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_shared_scope_person	ja	共有された人数	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_sharetarget	ja	登録位置	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_select_community	ja	コミュニティの選択	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_operator	ja	オペレータ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_msg_invite	ja	チャット相手の招待	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_msg_create	ja	チャットルームの作成	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_update_reply	ja	コメントの修正	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_search_community	ja	コミュニティ検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_select_cover	ja	カバー画像の選択	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_select_icon	ja	アイコン画像の選択	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_manage_community	ja	コミュニティ管理	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_manage_file	ja	添付ファイル	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_msg_member_set	ja	会員管理	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_msg_change_name	ja	チャットルームの名前変更	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_wrotten_feed	ja	作成記事を読む	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_setting	ja	設定	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_set_simple_password	ja	簡単番号設定	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_set_pattern	ja	パターン設定	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_inquiry_detail	ja	お問い合わせの詳細	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_inquiry	ja	문의하기/나의 문의내역	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_inquiries	ja	문의글	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_reset_deviceid	ja	기기 변경 요청 관리	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_file_org	ja	조직	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_file_comm	ja	커뮤니티	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_file_msg	ja	대화방	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_file_filter	ja	정렬 설정	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_cancel	ja	キャンセル	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_change	ja	変更	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_save	ja	保存	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_create	ja	生成	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_create_msger	ja	チャットする	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_add_favorite	ja	お気に入りに追加	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_invite	ja	招待	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_all_graph_org	ja	全社組織図	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_reaction	ja	反応順	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_creation	ja	登録順	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_whole_comm	ja	コミュニティ全体	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_favorite_comm	ja	お気に入りのコミュニティ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_popular_comm	ja	人気のコミュニティ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_latest_comm	ja	最新のコミュニティ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_my_org	ja	私の組織	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_post	ja	掲示	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_detail	ja	詳細	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_noti_readall	ja	すべて既読	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_calendar_basic	ja	カレンダー型	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_calendar_list	ja	リスト型	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_calendar_sync	ja	동기화	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_search_user	ja	이름 검색	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_all_schedules	ja	All Schedules	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_my_schedules	ja	My Schedules	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_how_file_handle	ja	どのような操作をしたいですか？	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_download	ja	ダウンロード	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_preview	ja	プレビュー	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_selected_image	ja	選択された画像です.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_start	ja	開始時間	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_finish	ja	終了時間	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_select_target	ja	下のメニューから対象を選択してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_download_image	ja	私の写真箱にダウンロード	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_show_flower	ja	플라워 보기	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_widget_shorcut	ja	티그리스 바로가기	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_crop	ja	자르기	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_rotate	ja	회전	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_find_idpw	ja	ID, パスワード検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_findid	ja	ID 検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_findpw	ja	パスワード検索	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_find_account	ja	ID, パスワードは本人の会社のメールアドレスに送信されます.\n本人の確認のために正確な情報を入力した後, \nID, パスワード検索を押してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_change_device	ja	기기인증은 사이트 운영자 승인후 처리됩니다.\n처리 된 후 등록된 개인 이메일로 승인 결과를 알려드립니다\n	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_version_check_message	ja	新しいバージョンがあります.更新しますか？	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_request_change_device	ja	すでに認証されたデバイス情報があります.\n機器認証の変更申請画面に\n移動しますか？	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_change_site	ja	から新しい通知が届きました.切り替えますか？	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_underconstruction_title	ja	시스템 점검중	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_underconstruction_sub	ja	보다 나은 티그리스를 위해 점검중입니다.\n시스템 점검 시간 동안 서비스 이용이 불가능하오니 양해부탁드립니다.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_force_update	ja	티그리스4.0 업데이트 안내입니다.\n\n최신 버전으로 업데이트 하시면, 더욱 안정적이고 빠른 성능이 보장됩니다.\n최신 버전으로 업데이트 하셔야 계속 사용이 가능하십니다.\n감사합니다.\n\n티그리스 서비스센터	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_check	ja	照会	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_like	ja	いいね	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_unlike	ja	いいね キャンセル	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_reply	ja	コメント	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_share	ja	共有	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_link	ja	リンク情報	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_add_link	ja	リンク追加	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_attachedfile	ja	添付ファイル	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_attachedimage	ja	画像	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_no_more_feed	ja	これ以上表示するフィードがありません	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_feed_state	ja	重要度	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_add_title	ja	タイトルの追加＋	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_attendee	ja	参加者	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_absentee	ja	欠席者	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_noanswer	ja	米回答	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_myanswer	ja	私の参加可否	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_sharedinfo1	ja	様が 	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_sharedinfo2	ja	様の投稿を共有する	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_show_all_reply	ja	コメント一覧	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_show_more_reply	ja	コメントをもっと見る	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_sender	ja	送信者	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_receiver	ja	受信者	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_cc	ja	参照	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_bcc	ja	숨은 참조	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_copyfeed	ja	본문 복사	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_copy	ja	コピー	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_modify	ja	修正	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_delete	ja	削除	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_whole_period	ja	すべての期間	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_whole_community	ja	すべての組織とコミュニティ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_survey_open_result	ja	結果公開	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_survey_close_result	ja	結果非公開	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_survey_open_list	ja	参加者公開	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_survey_close_list	ja	参加者非公開	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_single_select	ja	単一選択	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_multiple_select	ja	重複選択	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_deleting_feed	ja	フィードが削除されます. 削除しますか？	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_deleting_reply	ja	コメントが削除されます. 削除しますか？	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_new_feed	ja	새글이 등록되었습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_new_reply	ja	새댓글이 등록되었습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_add_item	ja	項目の追加	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_survey_result	ja	結果	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_survey_close	ja	プライベート	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_survey_expired_date	ja	アンケート終了日	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_survey_multi_select	ja	項目の重複選択	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_todo_date	ja	やるべきこと 時間	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_schedule_noti	ja	事前通知	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_finish	ja	作成中の内容が削除されます. 退室しますか？	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_shart_target	ja	등록위치를 선택하세요	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_only_preview	ja	미리보기 체크시 미리보기만 가능합니다.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_open	ja	コミュニティ公開可否	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_type	ja	コミュニティの種類	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_join_type	ja	登録方法	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_join_state	ja	登録状態	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_general_community	ja	一般コミュニティ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_notice_community	ja	お知らせ コミュニティ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_join_rightafter	ja	申し込み後すぐに登録	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_join_after_accept	ja	承認後に登録	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_waiting_join	ja	承認待ち	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_ask_operator	ja	管理者に連絡	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_add_target	ja	追加対象	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_add_member	ja	個人ユーザーを追加	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_add_org_graph	ja	組織図の連動追加	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_force_dropout	ja	強制退会	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_refuse_request	ja	登録返戻	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_members	ja	登録メンバー	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_creator	ja	コンストラクタ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_member	ja	会員	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_join	ja	登録	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_notjoin	ja	未登録	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_dropout	ja	脱退	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_general	ja	一般	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_notice	ja	お知らせ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_do_you_want_to_leave	ja	Do you want to leave?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_system	ja	システムメッセージ出力	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_set	ja	チャットルームの設定	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_exit	ja	退室	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_alarm_off	ja	チャットルームのアラームオフ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_groupname	ja	チャットルームの名前を入力してください	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_deleting_group	ja	本当にルームから退室しますか？	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_sticker_download	ja	이모티콘을 사용하려면 다운로드하십시오. \n 3G / LTE 등 데이터 통신 요금이 부과 될 수 있습니다.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_search_hint	ja	파일명으로 검색	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_file_view	ja	파일 모아보기	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_chat_people	ja	대화상대 보기	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_chat_change_name	ja	대화방 이름 변경	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_share_file	ja	파일을 공유해보세요!	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_no_file	ja	공유된 파일이 없습니다.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_no_search	ja	검색 결과가 없습니다.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_search_end	ja	마지막 검색 결과입니다.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_withdrawal	ja	정말 탈퇴 시키시겠습니까?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_room_withdrawal	ja	해당 방에서 강제탈퇴 되었습니다.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_feed	ja	フィード通知	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_reply	ja	コメント通知	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_community	ja	コミュニティ通知	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_messenger	ja	メッセンジャー通知	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_email	ja	メール通知	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_approval	ja	電子決裁通知	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_customer	ja	고객센터 알림	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_request_reset_device	ja	기기 인증 변경 요청	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_no_more_notification	ja	더 이상 표시할 알림 내역이 없습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_mobilenum	ja	携帯電話番号	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_email_address	ja	メールアドレス	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_privateemail_address	ja	Private Email Address	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_empno	ja	社員番号	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_job	ja	担当業務	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_birth	ja	誕生日	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_chat	ja	会話する	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_call	ja	電話をかける	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_send_text	ja	文字を送る	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_save_phone	ja	連絡先保存	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	cal_text_all_day	ja	一日中	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_change_profile	ja	プロフィールの修正	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_change_site	ja	サイトの変更	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_current_site	ja	現在のサイト	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_changing_site	ja	サイト選択	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_private_setting	ja	個人情報	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_all_graph_org	ja	Company organization	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_logout	ja	ログアウト	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_approval	ja	電子決裁	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_todo	ja	やるべきこと	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_feed_type	ja	投稿の種類	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_search_boundary	ja	検索範囲	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_about_tigris	ja	チグリスとは	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_versionInfo	ja	バージョン情報	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_lab	ja	チグリス実験室	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_setting_lock	ja	ロック解除方法	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_set_password	ja	パスワードの設定	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_new_password	ja	新規パスワード	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_current_password	ja	既存パスワード	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_password_fullchange	ja	全体パスワードの変更	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_apply_alarm	ja	通知の変更適用	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pinlock_current_pw	ja	既存の簡単番号を入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pinlock_new_pw	ja	新しい簡単番号を入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pinlock_new_pw_onemore	ja	新しい簡単番号をもう一度入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pattern_current	ja	既存のパターンを入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pattern_new	ja	ロック解除パターンを登録してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pattern_new_onemore	ja	新しいパターンをもう一度入力してください	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_auto_login	ja	自動ログイン	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_mode	ja	通知方式	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_block_alarm	ja	妨害禁止時間	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_no_time	ja	時間選択	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_system	ja	システム	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_comm_set	ja	すべてのコミュニティ別の通知	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_newfeed	ja	最新記事	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_comment	ja	コメント	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_like	ja	いいね！	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_no_more_inquiry	ja	これ以上表示するお問い合わせ内容がありません	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_done	ja	完了	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_notyet	ja	未完了	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_inquiry_done	ja	お問い合わせ完了可否	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_problem_type	ja	問題発生場所	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_problem_device	ja	端末の種類	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_problem_browser	ja	ブラウザの種類	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_problem_detail	ja	お問い合わせ内容	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_no_more_devices	ja	더 이상 기기 변경 요청한 내역이 없습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_release_id	ja	해제	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_view	ja	파일보기	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_msg_file_view	ja	대화방 파일	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_comm_file_view	ja	커뮤니티 파일	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_org_file_view	ja	조직 파일	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_ext	ja	파일 형식	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_all	ja	전체	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_img	ja	사진/동영상	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_doc	ja	일반 파일	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_social	ja	소유자	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_mine	ja	내 파일	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sorting	ja	정렬	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sort_name	ja	이름 순	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sort_createdt	ja	생성 날짜 순	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sort_desc	ja	내림차순	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sort_aesc	ja	오름차순	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_no_pre_down	ja	미리보기 및 다운로드를 할 수 없는 파일입니다.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_debug_config	ja	디버그 설정	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_id	ja	ログインID	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_name	ja	名前	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_mobile	ja	携帯電話番号（例えば, 010-1234-5678）	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_email	ja	個人のメールアドレス	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_reqcert_reason	ja	機器認証の変更理由	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_write_feed	ja	内容を記入してください (Required)	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_write_reply	ja	コメントを書いてください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_write_title	ja	タイトルを作成してください	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_write_title_required	ja	タイトルを作成してください (Required)	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_msg_text_search	ja	대화내용 검색	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_comm_name	ja	コミュニティ名を入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_comm_intro	ja	コミュニティの紹介	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_current_password	ja	既存のパスワードを入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_password_onemore	ja	もう一度入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_password_6letter	ja	신규 비밀번호를 입력해주세요	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_file_writer_search	ja	소유자명으로 검색	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_file_name_search	ja	파일명으로 검색	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_quit_backbutton	ja	[戻る]ボタンをもう一度押すと, アプリが終了します.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_networkerror	ja	ネットワーク接続が円滑でないです.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_networkerror_while_uploading	ja	アップロード中にネットワークの問題が発生しました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_inner_problem	ja	内部的に問題が発生しました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_temporary_problem	ja	一時的に問題が発生しました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_to_logout	ja	一時的に問題が発生して, ログアウトできませんでした.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_to_send_reply	ja	일시적으로 문제가 발생하여 댓글을 전송하지 못했습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_missing_password	ja	パスワードを入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_missing_email	ja	Emailを入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_password_check	ja	別ルートでパスワードが変更されました.\n変更されたパスワードを入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_to_change_profile	ja	更新されていません.プロフィールの項目を再確認してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_to_change_password	ja	パスワードを再確認してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_nophone	ja	携帯電話番号が存在しません.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_nocontactinfo	ja	連絡先がありません.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_attached_image	ja	選択した画像がデバイスに存在しません.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_image_not_allowed	ja	添付できるファイル形式（jpg, png）	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_file_not_allowed	ja	添付できるファイル形式（xls, xlsx, ppt, pptx, doc, docx, pdf, hwp, txt）	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_limit_10	ja	画像/ファイルは10枚以上選択することができません.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_limit_size	ja	첨부한 이미지/파일이 %1$s MB를 초과하였으니, %2$s MB 이하로 첨부해주세요	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_more_reply	ja	コメントは, これ以上ありません.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_content	ja	内容を入力してください	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_link_info	ja	未知のLink情報	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_insert_link_later	ja	現在Link情報を読み取れないため, 投稿するときに情報を更新します.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_register_gcm	ja	通知の登録に失敗しました.再ログインをしてください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_not_set_up_calendar	ja	カレンダー設定ができていません.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_notifications	ja	通知の履歴がありません.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_need_content	ja	項目を作成してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_select_targets	ja	対象を選択してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_more_child	ja	所属メンバーや組織が存在しません.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_keyword_to_be_searched	ja	検索内容を入力しませんでした.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_new_password	ja	新しいパスワードを入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_incorrect_password	ja	パスワードが違います.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_try_to_login_again	ja	パスワードが変更されました.再ログインしてください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_password_register	ja	簡単番号ロックが設定されました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_check_pw_overtimes	ja	既存の簡単番号が3回失敗しました.再度ログインしてください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_check_pattern_overtimes	ja	既存のパターンが3回一致しません.再度ログインしてください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_try_to_input_new_pin	ja	パスワードが一致しません.₩nもう一度パスワードを入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_pattern_short	ja	少なくとも4つ以上の点を入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_pattern_register	ja	パターンロックが設定されました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_pattern_incorrect	ja	パターンが違います.もう一度お試しください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_feed	ja	フィードは削除されたか, 存在しません.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_find_id	ja	作成したメールにＩＤが送信されました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_find_pw	ja	作成したメールにパスワードが送信されました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_request_device_auth	ja	会社のメールにデバイスの変更要請をしました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_problem_email	ja	メールのページに問題が発生しました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_is_not_email_user	ja	メールサービスを申請すると使用可能です.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_is_not_approval_user	ja	電子決裁サービスを申請すると使用可能です.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_change_alarm	ja	通知の設定を適用しました.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_is_preparing	ja	サービス準備中です.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_downloading	ja	サービス準備中です.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_download	ja	%1$s 다운로드 완료 되었습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_download	ja	%1$s 다운로드 도중 실패 하였습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_msg_change_name	ja	チャットルームの名前を入力してください.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_added_text_to_clipboard	ja	클립보드에 텍스트가 복사되었습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_sync_calendar	ja	%1$s년 %2$s월의 일정과 동기화를 시작합니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_sync_calendar	ja	동기화가 완료되었습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_disconnect_websocket	ja	네트웍이 불안정하여 상대방의 메세지를 받지 못할 수도 있습니다. 다시 방을 방문해 주세요	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_outsider_cannot_chat	ja	외부 사용자는 이 기능을 사용할 수 없습니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_flower_permissions	ja	전화 걸기 기능을 사용하기 위해서는 권한을 부여하여야 합니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_file_permissions	ja	파일을 첨부하기 위해서는 권한을 부여하여야 합니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_download_file_permissions	ja	파일을 다운로드 하기 위해서는 권한을 부여하여야 합니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_this_service_permissions	ja	이 기능을 사용하기 위해서는 권한을 부여하여야 합니다	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_set_permission	ja	권한 부여	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_temporary_problem_after_logout	ja	로그인 정보가 유효하지 않아 더 이상 진행할 수 없습니다. 재로그인 해주세요	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_you_do_not_have_access	ja	You do not have access	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_failed_to_save_post	ja	Failed to save post	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	format_MMddyyyy_hhmm	ja	%1$s/%2$s/%3$s, %4$s:%5$s	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	format_MMddyy_hhmm	ja	%1$s/%2$s/%3$s %4$s:%5$s	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	

@@ -1,0 +1,421 @@
+	app_title	en	TIGRIS	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	account_type	en	kr.tigercompany.tigris.cloud	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_yes	en	Yes	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_no	en	No	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_ok	en	Confirm	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_comm_name	en	Community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_favorite	en	Favorites	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_org	en	Department	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_org_member	en	Department member	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_email	en	Email	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_introduction	en	Introduce	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_public	en	Public	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_private	en	Private	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_date	en	Date and time	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_place	en	Place	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_start	en	Start	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_finish	en	End	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_search	en	Search	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_none	en	None	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_on	en	ON	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_off	en	OFF	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_seperator_path	en	>	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_update	en	Update	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_required	en	Required	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	common_text_subscribe	en	Subscribe	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_home	en	Home	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_community	en	Community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_messenger	en	Chatting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_alarm	en	Notification	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_more	en	More	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_find_account	en	Find account	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_find_id	en	Find ID	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_find_pw	en	Find password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_reqcert	en	Request to change device authentification 	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_all_feeds	en	View all feeds	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_unread_feeds	en	Unread feeds	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_favor_feeds	en	Favorite feeds	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_comm	en	My Community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_act	en	My Activities	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_write	en	Posts created by me	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_react	en	Posts reacted by me	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_share	en	Posts shared by me	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_shared_me	en	Posts shared to me	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_create_community	en	Open community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_basicinfo	en	Basic information	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_manage_member	en	Member management	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_accept_join	en	Accept subscription	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_select_doc	en	Select document file	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_myinquiry	en	My inquery	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_search_total	en	Unified search	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_search_feed	en	Search Post	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_search_user	en	User Search	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_page	en	My Page	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_calendar	en	Calendar	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_notice	en	Notice	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_invite_comm	en	Invite to community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_basic	en	Create a story	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_survey	en	Create a survey	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_schedule	en	Create a schedule	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_todo	en	Create a duty	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_write_share	en	Create a feed shared	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_feed_detail	en	Detailed Feed	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_check_members	en	Personnel viewed	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_shared_scope_person	en	Personnel shared	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_sharetarget	en	Where to register	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_select_community	en	Select Community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_operator	en	Operator	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_msg_invite	en	Invite contacts	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_msg_create	en	Create chat room	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_update_reply	en	Modify Comment	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_search_community	en	Search Community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_select_cover	en	Select cover image	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_select_icon	en	Select icon image	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_manage_community	en	Manage community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_manage_file	en	Attached files	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_msg_member_set	en	members	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_msg_unread_member	en	unread members	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_msg_change_name	en	Change the name of chat room	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_wrotten_feed	en	작성게시물보기	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_setting	en	Setting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_set_simple_password	en	Short-cut number setting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_set_pattern	en	Pattern setting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_inquiry_detail	en	Query in detail	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_my_inquiry	en	Query/My query	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_inquiries	en	Ask	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_reset_deviceid	en	Management of requested device change	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_file_org	en	Org FileView	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_file_comm	en	Comm FileView	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_file_msg	en	Msg FileView	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_file_filter	en	File Filtering	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	nav_title_tigris_lab	en	Tigris Lab	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_cancel	en	Cancel	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_change	en	Change	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_save	en	Save	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_create	en	Create	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_create_msger	en	Chatting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_add_favorite	en	Add to favorites	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_invite	en	invite	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_all_graph_org	en	Comapny organization	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_reaction	en	Reaction	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_creation	en	Creation	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_whole_comm	en	Whole Community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_favorite_comm	en	Favorite Community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_popular_comm	en	Hot Community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_latest_comm	en	Latest Community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_my_org	en	My Organization	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_post	en	Post	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_detail	en	Detailed information	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_noti_readall	en	All read	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_calendar_basic	en	Calendar type	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_calendar_list	en	List type	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_calendar_sync	en	synchronization	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_search_user	en	Name search	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_all_schedules	en	All Schedules	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	menu_text_my_schedules	en	My Schedules	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_how_file_handle	en	What kind of work do you want?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_download	en	Download	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_preview	en	Preview	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_selected_image	en	It is a selected image	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_start	en	Start time	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_finish	en	End time	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_location	en	Location	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_select_target	en	Please select a target from the menu below	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_download_image	en	Download in my photo box	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_show_flower	en	View flower	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_widget_shorcut	en	Tigris : Shortcut	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_crop	en	Crop	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_rotate	en	Rotate	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	util_text_unknownname	en	UnknownName	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login	en	Login	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_find_idpw	en	Find ID, password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_findid	en	Find ID	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_findpw	en	Find password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_find_account	en	ID and password are sent to your company email address. \n After entering correct information for your identity, \n press find ID and password.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_login_change_device	en	기기인증은 사이트 운영자 승인후 처리됩니다.\n처리 된 후 등록된 개인 이메일로 승인 결과를 알려드립니다\n	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_version_check_message	en	New version is found. Would you like to update?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_request_change_device	en	Already authenticated device information is found.\n Would you like to move to the screen requesting to change device authentication?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_change_site	en	 has a new notification. Would you like to switch?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_underconstruction_title	en	The system is now checking	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_underconstruction_sub	en	We are checking the system for better service.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_underconstruction_duration	en	%1$s\n~ %2$s	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	intro_text_force_update	en	This is information of update message for TIGRIS 4.0.\n\nIt would be more reliable service available if you update to the latest version.\nAnd you can use safely our service with latest version.\nThank you.\n\nTIGRIS service center	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_check	en	Look up	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_like	en	Like	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_unlike	en	Unlike	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_reply	en	Comment	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_share	en	Share	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_link	en	Link Information	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_add_link	en	Add Link	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_attachedfile	en	Attached Files	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_attachedimage	en	Images	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_no_more_feed	en	No more feed to display	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_feed_state	en	State	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_add_title	en	Add title +	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_attendee	en	Attendee	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_absentee	en	Absentee	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_noanswer	en	Unanswered	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_myanswer	en	My answer	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_sharedinfo1	en	is shared the feed of 	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_sharedinfo2	en	 	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_show_all_reply	en	All Replies	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_show_more_reply	en	More Replies	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_sender	en	Sender	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_receiver	en	Recipient	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_cc	en	CC	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_bcc	en	BCC	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_copyfeed	en	Text copy	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_copy	en	Copy	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_modify	en	Modify	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_delete	en	Delete	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_whole_period	en	All time periods	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_whole_community	en	All orgs and communities	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_survey_open_result	en	Disclose result	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_survey_close_result	en	Close result	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_survey_open_list	en	Disclose attendee	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_survey_close_list	en	Close attendee	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_single_select	en	Single selection	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_multiple_select	en	Multiple seletcion	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_deleting_feed	en	This feed will be deleted. Are you sure you want to delete it?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_deleting_reply	en	This reply will be deleted. Are you sure you want to delete it?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_new_feed	en	It has registered a new article	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	feed_text_new_reply	en	It has registered a new reply	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_add_item	en	Add item	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_survey_result	en	Result	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_survey_close	en	Closed	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_survey_expired_date	en	End date	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_survey_multi_select	en	Multiple selection	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_todo_date	en	Duty time	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_schedule_noti	en	Prior notification	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_finish	en	Contens that you are creating will be deleted.  Are you sure want to exit?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_shart_target	en	Input targets	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_only_preview	en	* When checkbox is checked, only preview	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	writing_text_preview	en	preview	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_open	en	Whether to disclose community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_type	en	Community type	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_join_type	en	Joining method	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_join_state	en	Status of subscription	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_general_community	en	General community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_notice_community	en	Notice community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_join_rightafter	en	Subscription upon request	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_join_after_accept	en	Subscription after approval	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_waiting_join	en	Pending approval	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_ask_operator	en	Contact administrator	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_add_target	en	Additional target	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_add_member	en	Add individual users	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_add_org_graph	en	Add connected organization chart	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_force_dropout	en	Withdraw forcibly	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_refuse_request	en	Give back subscription	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_community_members	en	Members joined	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_creator	en	Creator	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_member	en	Member	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_join	en	Join	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_notjoin	en	Unjoin	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_dropout	en	Drop out	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_general	en	General	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_notice	en	Notice	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	comm_text_do_you_want_to_leave	en	Do you want to leave?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_system	en	System messege	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_set	en	Chat room setting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_exit	en	Leave	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_alarm_off	en	Alarm off chat room	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_alarm_on	en	Alarm on chat room	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_groupname	en	Please input name of chat room	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_deleting_group	en	Are you sure you want to leave chat room?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_sticker_download	en	Please download to use emoticons. \n
+                                             3G / LTE and other data communication charges may apply.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_search_hint	en	search by file name	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_file_view	en	File View	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_chat_people	en	Chat People	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_chat_change_name	en	Change Room name	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_share_file	en	Share file	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_no_file	en	There is no file	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_no_search	en	There is no search result	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_search_end	en	This is a last search result	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_text_withdrawal	en	Would you really like to withdrawal?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	msg_room_withdrawal	en	You have been forcibly removed from the room.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_feed	en	Feed notification	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_reply	en	Comment notification	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_community	en	Community notification	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_messenger	en	Messenger notification	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_email	en	Email notification	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_approval	en	Approval notification	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_customer	en	Notification of customer center	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	noti_text_request_reset_device	en	Change request for previous authentication	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_no_more_notification	en	There is no notification anymore	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_mobilenum	en	Mobile number	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_email_address	en	Email Address	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_privateemail_address	en	Private Email Address	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_empno	en	Employee Number	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_job	en	Responsibility	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_birth	en	Date of birth	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_chat	en	Chatting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_call	en	Dialing	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_send_text	en	Sending SMS	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	profile_text_save_phone	en	Save contact number	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	cal_text_all_day	en	All day	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_change_profile	en	Modify Profile	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_change_site	en	Change site	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_current_site	en	Current site	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_changing_site	en	Select site	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_private_setting	en	Personal information	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_all_graph_org	en	Organization	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_logout	en	Log out	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_approval	en	Approval	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_todo	en	To Do	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_feed_type	en	Feed type	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_search_boundary	en	Search scope	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_versionInfo	en	Version information	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_about_tigris	en	What\'s Tigris?	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_faq	en	FAQ	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_lab	en	Laboratory	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_setting_lock	en	lock setting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_set_password	en	Password setting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_new_password	en	New password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_current_password	en	Old password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_password_fullchange	en	Change password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_apply_alarm	en	Apply alarm change	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pinlock_current_pw	en	Enter old short-cut number	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pinlock_new_pw	en	Enter new short-cut number	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pinlock_new_pw_onemore	en	Re-enter new short-cut number	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pattern_current	en	Enter old pattern	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pattern_new	en	Enter new pattern	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_pattern_new_onemore	en	Re-enter new pattern	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_mode	en	Notification mode	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_auto_login	en	Automatic login	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_block_alarm	en	do not alarm	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_no_time	en	alarm no time	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_system	en	Notification system	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_comm_set	en	Notification by all communities	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_newfeed	en	Notification new feed	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_comment	en	Notification_reply	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_alarm_like	en	Notification like	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_no_more_inquiry	en	No more queries to display	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_done	en	Done	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_notyet	en	Not yet	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_inquiry_done	en	Whether query is complete or not	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_problem_type	en	Where the problem occurred	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_problem_device	en	Device types	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_problem_browser	en	Browser types	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_problem_detail	en	Query details	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_no_more_devices	en	There is no request of device change anymore	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_release_id	en	해제	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_view	en	File View	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_msg_file_view	en	Msg File View	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_comm_file_view	en	Community File View	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_org_file_view	en	Org File View	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_ext	en	File Ext	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_all	en	All File	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_img	en	Image Play File	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_doc	en	Doc File	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_social	en	social	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_mine	en	My File	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sorting	en	File Sorting	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sort_name	en	Sorting Name	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sort_createdt	en	Sorting CreateDt	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sort_desc	en	Sorting desc	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_sort_aesc	en	Sorting aesc	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_file_no_pre_down	en	This file can not be previewed and downloaded.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_version_info_event	en	Have a good Day:)	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	more_text_debug_config	en	Debug Config	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	tigris_lab_welcome_to_tigris_lab	en	Welcome to Tigris Laboratory	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	tigris_lab_picture_quality_down	en	Set image quality	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	tigris_lab_picture_quality_up	en	Set image upload quality	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	tigris_lab_quality_normal	en	Normal	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	tigris_lab_quality_high	en	High	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	tigris_lab_quality_very_high	en	Very High	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	tigris_lab_quality_original	en	Original	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_id	en	Login ID	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_password	en	Password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_name	en	Name	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_mobile	en	Mobile Number (Ex : 010-1234-5678)	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_email	en	Personal email Address	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_login_reqcert_reason	en	Reason for changing device authentication	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_write_feed	en	Input the content (Required)	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_write_reply	en	Input the comment	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_insert_url	en	http://	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_write_title	en	Input the title	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_write_title_required	en	Input the title (Required)	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_msg_text_search	en	Search for conversation contents	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_comm_name	en	Input the name of community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_comm_intro	en	Introduction about community	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_current_password	en	Enter old password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_password_onemore	en	Re-enter password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_password_6letter	en	Enter new password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_file_writer_search	en	Search by writer	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	hint_file_name_search	en	Search by filename	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_quit_backbutton	en	If you press back button again, the app is finished	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_networkerror	en	Network connection is not good	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_networkerror_while_uploading	en	A network problem has been encountered while uploading	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_inner_problem	en	Internally a problem has been encountered	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_temporary_problem	en	Temporarily a problem has been encountered	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_to_logout	en	Failed to log out due to a temporary problem	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_to_send_reply	en	It cannot be sent your comment because of temporary problem	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_while_uploading	en	Now uploading. Please wait.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_missing_password	en	Please enter password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_missing_email	en	Please enter your Email	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_password_check	en	Password has changed from different path. \nEnter the changed password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_to_change_profile	en	Failed to update. Double check the profile entries	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_to_change_password	en	Check the password again	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_nophone	en	There is no registered phone number	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_nocontactinfo	en	There is no contact info	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_attached_image	en	There is no the image you selected on the device	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_image_not_allowed	en	File format which can be attached (jpg, png)	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_file_not_allowed	en	File format which can be attached (xls, xlsx, ppt, pptx, doc, docx, pdf, hwp, txt)	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_limit_10	en	For image/file, more than ten sheets cannot be selected	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_limit_size	en	Please attach below %1$s MB because attached image/file exceed %2$s MB	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_more_reply	en	No more replies	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_content	en	Enter the content	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_link_info	en	Unknown link information	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_insert_link_later	en	Failed to retrieve the current link information, therefore information is renewed when publishing	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_register_gcm	en	Failed to register notification. Log in again	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_not_set_up_calendar	en	Calendar is not set	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_notifications	en	There is no history of notification	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_need_content	en	You should input the entries	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_select_targets	en	You should select the target	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_more_child	en	There is no member or organization	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_keyword_to_be_searched	en	You have not entered a search content	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_new_password	en	Please enter your new password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_incorrect_password	en	Passwords are not the same	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_try_to_login_again	en	Password has changed. Log in again	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_password_register	en	Short-cut number lockout is set	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_check_pw_overtimes	en	Old short-cut number failed three times. Log in again	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_check_pattern_overtimes	en	Old pattern does not match three times. Log in again	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_try_to_input_new_pin	en	Password does not match. \nRe-enter password	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_pattern_short	en	Enter at least 4 points	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_pattern_register	en	Pattern lockout is set	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_pattern_incorrect	en	Pattern is different. Please try again	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_no_feed	en	This feed has been deleted or does not exist	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_find_id	en	The ID was sent to mail which you wrote	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_find_pw	en	The Password was sent to email which you wrote	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_request_device_auth	en	It has been requested the manager to change device authentication	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_problem_email	en	Email page has encountered problems	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_is_not_email_user	en	You should apply for email service to enable it	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_is_not_approval_user	en	You should apply for electronic approval service to enable it	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_change_alarm	en	Alarm setting is applied	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_is_preparing	en	Service is being prepared	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_downloading	en	The file is being downloaded	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_download	en	%1$s is now complete download	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_fail_download	en	%1$s failed during the download	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_msg_change_name	en	Enter the name of chat room	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_added_text_to_clipboard	en	The text is copied in clipboard	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_sync_calendar	en	It would be started to synchronize at %1$s year %2$s month	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_success_sync_calendar	en	The synchronization has completed	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_disconnect_websocket	en	you may not be able to receive the message of the other. Please try it again.	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_outsider_cannot_chat	en	it will not be able to use this feature for external users	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_flower_permissions	en	You must grant authorization for using the dial function	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_file_permissions	en	You must grant authorization for attaching file	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_download_file_permissions	en	You must grant authorization for downloading file	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_this_service_permissions	en	You must grant authorization for using this function	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_set_permission	en	Authorization	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_temporary_problem_after_logout	en	로그인 정보가 유효하지 않아 더 이상 진행할 수 없습니다. 재로그인 해주세요	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_you_do_not_have_access	en	You do not have access	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	pop_failed_to_save_post	en	Failed to save post	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	error_text_page_not_found	en	Page not found	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	error_text_internal_server_error	en	Internal server error	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	format_MMddyyyy_hhmm	en	%1$s/%2$s/%3$s, %4$s:%5$s	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	format_MMddyy_hhmm	en	%1$s/%2$s/%3$s %4$s:%5$s	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	lockscreen_access_pattern_start	en	Pattern started	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	lockscreen_access_pattern_cleared	en	Pattern cleared	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	lockscreen_access_pattern_cell_added	en	Cell added	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	
+	lockscreen_access_pattern_detected	en	Pattern completed	2017/09/26 13:52	NO_TRANS	2017/09/26 13:52	NO_TRANS	

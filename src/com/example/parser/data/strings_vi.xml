@@ -1,0 +1,432 @@
+<resources>
+    <!-- ===================================== Title & Text =====================================-->
+    <!-- Common -->
+    <string name="common_text_yes">Có</string>
+    <string name="common_text_no">Không</string>
+    <string name="common_text_ok">Xác nhậ</string>
+    <string name="common_text_comm_name">Cộng đồng</string>
+    <string name="common_text_favorite">Yêu thích</string>
+    <string name="common_text_org">Bộ phận</string>
+    <string name="common_text_org_member">Thành viên của Bộ phận</string>
+    <string name="common_text_introduction">Giới thiệu</string>
+    <string name="common_text_public">Công khai</string>
+    <string name="common_text_private">Riêng tư</string>
+    <string name="common_text_date">Ngày giờ</string>
+    <string name="common_text_place">Địa điểm</string>
+    <string name="common_text_start">bắt đầu</string>
+    <string name="common_text_finish">Kết thúc</string>
+    <string name="common_text_search">Tìm kiếm</string>
+    <string name="common_text_none">Không</string>
+    <string name="common_text_update">업데이트</string>
+    <string name="common_text_required">Required</string>
+    <string name="common_text_subscribe">Subscribe</string>
+
+    <!-- Navigation -->
+    <string name="nav_title_home">Trang chủ</string>
+    <string name="nav_title_community">Cộng đồng</string>
+    <string name="nav_title_messenger">trò chuyện</string>
+    <string name="nav_title_alarm">Thông báo</string>
+    <string name="nav_title_more">Nhiều lượt xem</string>
+    <string name="nav_title_find_account">Tìm kiếm tài khoản</string>
+    <string name="nav_title_find_id">Tìm kiếm ID</string>
+    <string name="nav_title_find_pw">Tìm password</string>
+    <string name="nav_title_reqcert">Yêu cầu xác thực thay đổi thiết bị</string>
+    <string name="nav_title_all_feeds">Xem toàn bộ</string>
+    <string name="nav_title_unread_feeds">Mục chưa đọc</string>
+    <string name="nav_title_favor_feeds">Mục yêu thích</string>
+    <string name="nav_title_my_comm">Nhóm của tôi</string>
+    <string name="nav_title_my_act">Hoạt động của tôi</string>
+    <string name="nav_title_my_write">Bài viết tôi đã tạo</string>
+    <string name="nav_title_my_react">Bài viết tôi đã phản hồi</string>
+    <string name="nav_title_my_share">Bài viết tôi đã chia sẻ</string>
+    <string name="nav_title_shared_me">Bài viết chia sẻ cho tôi</string>
+    <string name="nav_title_create_community">Nhóm mở</string>
+    <string name="nav_title_basicinfo">Thông tin cơ bản</string>
+    <string name="nav_title_manage_member">Quản lý thành viên</string>
+    <string name="nav_title_accept_join">cho phép đăng ký theo dõi</string>
+    <string name="nav_title_select_doc">chọn file tài liệu</string>
+    <string name="nav_title_myinquiry">Truy vấn tài khoản của tôi</string>
+    <string name="nav_title_search_total">Tìm kiếm hợp nhất</string>
+    <string name="nav_title_search_feed">Tìm kiếm bài viết</string>
+    <string name="nav_title_search_user">Tìm kiếm người dùng</string>
+    <string name="nav_title_my_page">Trang của tôi</string>
+    <string name="nav_title_calendar">Lịch</string>
+    <string name="nav_title_notice">Thông báo</string>
+    <string name="nav_title_invite_comm">Mời vào Nhóm</string>
+    <string name="nav_title_write_basic">Tạo thông báo</string>
+    <string name="nav_title_write_survey">Tạo khảo sát</string>
+    <string name="nav_title_write_schedule">Tạo lịch làm việc</string>
+    <string name="nav_title_write_todo">Tạo nhiệm vụ</string>
+    <string name="nav_title_write_share">Tạo thông báo để chia sẻ</string>
+    <string name="nav_title_feed_detail">Nội dung chi tiết</string>
+    <string name="nav_title_check_members">Người xem</string>
+    <string name="nav_title_shared_scope_person">Người chia sẻ</string>
+    <string name="nav_title_sharetarget">Nơi để đăng ký</string>
+    <string name="nav_title_select_community">Chọn nhóm</string>
+    <string name="nav_title_operator">Người điều phối</string>
+    <string name="nav_title_msg_invite">Mời người trong danh bạ</string>
+    <string name="nav_title_msg_create">Tạo chatroom</string>
+    <string name="nav_title_update_reply">Sửa reply</string>
+    <string name="nav_title_search_community">Tìm kiếm Nhóm</string>
+    <string name="nav_title_select_cover">Chọn ảnh đại diện</string>
+    <string name="nav_title_select_icon">Chọn icon image</string>
+    <string name="nav_title_manage_community">Quản lý Nhóm</string>
+    <string name="nav_title_manage_file">Đính kèm files</string>
+    <string name="nav_title_msg_member_set">Quản lý thành viên</string>
+    <string name="nav_title_msg_change_name">Đôi tên Chatroom</string>
+    <string name="nav_title_wrotten_feed">Xem các bài viết đã tạo</string>
+    <string name="nav_title_setting">Cài đặt</string>
+    <string name="nav_title_set_simple_password">Cài đặt số phím tắt</string>
+    <string name="nav_title_set_pattern">Cài đặt khuôn mẫu</string>
+    <string name="nav_title_inquiry_detail">Tìm kiếm chi tiết</string>
+    <string name="nav_title_my_inquiry">Yêu cầu</string>
+    <string name="nav_title_inquiries">Nội dung yêu cầu</string>
+    <string name="nav_title_reset_deviceid">Quản lý thiết bị được yêu cầu đã thay đổi</string>
+    <string name="nav_title_file_org">조직</string>
+    <string name="nav_title_file_comm">커뮤니티</string>
+    <string name="nav_title_file_msg">대화방</string>
+    <string name="nav_title_file_filter">정렬 설정</string>
+
+    <!-- Menu -->
+    <string name="menu_text_cancel">Hủy</string>
+    <string name="menu_text_change">Thay đổi</string>
+    <string name="menu_text_save">Lưu</string>
+    <string name="menu_text_create">Tạo </string>
+    <string name="menu_text_add_favorite">Thêm vào mục yêu thích</string>
+    <string name="menu_text_invite">Mời</string>
+    <string name="menu_text_all_graph_org">Sơ đồ tổ chức công ty</string>
+    <string name="menu_text_reaction">Sơ đồ tổ chức công ty</string>
+    <string name="menu_text_creation">Theo thứ tự đăng ký</string>
+    <string name="menu_text_whole_comm">Tất cả các nhóm</string>
+    <string name="menu_text_favorite_comm">Nhóm yêu thích</string>
+    <string name="menu_text_popular_comm">Nhóm được quan tâm</string>
+    <string name="menu_text_latest_comm">Nhóm mới nhất</string>
+    <string name="menu_text_my_org">Tổ chức của tôi</string>
+    <string name="menu_text_post">Đăng bài</string>
+    <string name="menu_text_detail">Thông tin chi tiết</string>
+    <string name="menu_text_noti_readall">Tất cả đã đọc</string>
+    <string name="menu_text_calendar_basic">Loại lịch</string>
+    <string name="menu_text_calendar_list">Loại danh sách</string>
+    <string name="menu_text_calendar_sync">Đồng bộ</string>
+    <string name="menu_text_search_user">Tìm theo tên</string>
+    <string name="menu_text_all_schedules">All Schedules</string>
+    <string name="menu_text_my_schedules">My Schedules</string>
+
+    <!-- Util -->
+    <string name="util_text_how_file_handle">Bạn muốn thực hiện nhiệm vụ nào?</string>
+    <string name="util_text_preview">Xem lại</string>
+    <string name="util_text_selected_image">Ảnh đã chọn</string>
+    <string name="util_text_start">Thời gian bắt đầu</string>
+    <string name="util_text_finish">Thời gian kết thúc</string>
+    <string name="util_text_select_target">Vui lòng chọn mục tiêu từ menu bên dưới</string>
+    <string name="util_text_download_image">Download trong Ảnh của tôi</string>
+    <string name="util_text_show_flower">Xem Flower</string>
+    <string name="util_text_widget_shorcut">티그리스 바로가기</string>
+    <string name="util_text_crop">자르기</string>
+    <string name="util_text_rotate">회전</string>
+
+    <!-- Login -->
+    <string name="intro_text_login_find_idpw">Tìm kiếm ID và Password</string>
+    <string name="intro_text_login_findid">Tìm kiếm ID</string>
+    <string name="intro_text_login_findpw">Tìm kiếm password</string>
+    <string name="intro_text_login_find_account">ID và password được gửi vào địa chỉ email công ty của bàn. \n Sau khi nhập những thông tin chính xác để xác thực, vui lòng nhấn tìm Password</string>
+    <string name="intro_text_login_change_device">기기인증은 사이트 운영자 승인후 처리됩니다.\n처리 된 후 등록된 개인 이메일로 승인 결과를 알려드립니다\n</string>
+    <string name="intro_text_version_check_message">Đã có phiên bản mới. Bạn có muốn cập nhật?</string>
+    <string name="intro_text_request_change_device">Đã có thông tin về thiết bị xác thực. BẠn có muốn thiết bị xác thực thay đổi màn hình ứng dụng?</string>
+    <string name="intro_text_change_site">Có thông báo mời từ ~. Bạn có muốn mở xem không?</string>
+    <string name="intro_text_underconstruction_title">Hệ thống đang kiểm tra</string>
+    <string name="intro_text_underconstruction_sub">Chúng tôi đang kiểm tra hệ thống</string>
+    <string name="intro_text_force_update">Thông báo về việc cập nhật hệ thống TIGRIS 4.0: Hãy cập nhật phiên bản mới nhất để có những trải nghiệm tốt nhất.</string>
+
+    <!-- Feed -->
+    <string name="feed_text_check">Look up</string>
+    <string name="feed_text_like">Thích Like</string>
+    <string name="feed_text_unlike">Hủy Like</string>
+    <string name="feed_text_reply">Reply</string>
+    <string name="feed_text_share">Chia sẻ</string>
+    <string name="feed_text_link">THông tin Link</string>
+    <string name="feed_text_add_link">Thêm Link</string>
+    <string name="feed_text_attachedfile">Thêm Link</string>
+    <string name="feed_text_attachedimage">Hình ảnh</string>
+    <string name="feed_text_no_more_feed">Hết nội dung để hiển thị</string>
+    <string name="feed_text_feed_state">State</string>
+    <string name="feed_text_add_title">Thêm Tiêu đề +</string>
+    <string name="feed_text_attendee">Người tham gia</string>
+    <string name="feed_text_absentee">Người vắng mặt</string>
+    <string name="feed_text_noanswer">Không trả lời</string>
+    <string name="feed_text_myanswer">Câu trả lời của tôi</string>
+    <string name="feed_text_sharedinfo1">Chia sẻ bài viết của tôi</string>
+    <string name="feed_text_sharedinfo2"> </string>
+    <string name="feed_text_show_all_reply">Xem toàn bộ reply</string>
+    <string name="feed_text_show_more_reply">Xem thêm reply</string>
+    <string name="feed_text_sender">Người gửi</string>
+    <string name="feed_text_receiver">Người nhận</string>
+    <string name="feed_text_cc">CC</string>
+    <string name="feed_text_bcc">BCC</string>
+    <string name="feed_text_copyfeed">Copy nội dung</string>
+    <string name="feed_text_copy">Copy</string>
+    <string name="feed_text_modify">Sửa</string>
+    <string name="feed_text_delete">Xóa</string>
+    <string name="feed_text_whole_period">Tất cả các giai đoạn</string>
+    <string name="feed_text_whole_community">Toàn bộ tổ chức và nhóm</string>
+    <string name="feed_text_survey_open_result">Trưng bày kết quả</string>
+    <string name="feed_text_survey_close_result">Trưng bày kết quả</string>
+    <string name="feed_text_survey_open_list">Hiển thị người tham gia</string>
+    <string name="feed_text_survey_close_list">Đóng hiển thị người tham gia</string>
+    <string name="feed_text_single_select">Đóng hiển thị người tham gia</string>
+    <string name="feed_text_multiple_select">Chọn sao lưu</string>
+    <string name="feed_text_deleting_feed">Nội dung này sẽ được xóa. Bạn có chắc muốn xóa không?</string>
+    <string name="feed_text_deleting_reply">Reply sẽ được xóa. Bạn có chắc muốn xóa không?</string>
+    <string name="feed_text_new_feed">Có nội dung mới</string>
+    <string name="feed_text_new_reply">Có nội dung mới</string>
+
+    <!-- Writing -->
+    <string name="writing_text_add_item">Thêm mục</string>
+    <string name="writing_text_survey_result">Kết quả</string>
+    <string name="writing_text_survey_close">Riêng tư</string>
+    <string name="writing_text_survey_expired_date">Ngày cuối cùng của survey</string>
+    <string name="writing_text_survey_multi_select">Chọn để sao lưu mục</string>
+    <string name="writing_text_todo_date">Thời gian làm nhiệm vụ</string>
+    <string name="writing_text_schedule_noti">Thời gian làm nhiệm vụ</string>
+    <string name="writing_text_finish">Nội dung bạn đang tạo sẽ bị xóa. Bạn có chắc muốn thoát?</string>
+    <string name="writing_text_shart_target">등록위치를 선택하세요</string>
+    <string name="writing_text_only_preview">미리보기 체크시 미리보기만 가능합니다.</string>
+
+    <!-- Community -->
+    <string name="comm_text_community_open">Bất cứ khi nào muốn mở Nhóm</string>
+    <string name="comm_text_community_type">Loại Nhóm</string>
+    <string name="comm_text_community_join_type">Phương thức đăng ký theo dõi</string>
+    <string name="comm_text_community_join_state">Tình trạng đăng ký/biểu quyết</string>
+    <string name="comm_text_general_community">Côộng đồng chung</string>
+    <string name="comm_text_notice_community">Thông báo cho nhóm</string>
+    <string name="comm_text_join_rightafter">Đăng ký dựa trên yêu cầu</string>
+    <string name="comm_text_join_after_accept">Đăng ký sau khi phê duyệt</string>
+    <string name="comm_text_waiting_join">Phê duyệt chưa xử lý</string>
+    <string name="comm_text_ask_operator">Liên hệ Admin</string>
+    <string name="comm_text_add_target">Mục tiêu giai tăng</string>
+    <string name="comm_text_add_member">Thêm mỗi cá nhân người dùng</string>
+    <string name="comm_text_add_org_graph">Thêm mỗi cá nhân người dùng</string>
+    <string name="comm_text_force_dropout">Bắt buộc hồi lại</string>
+    <string name="comm_text_refuse_request">Hủy đăng ký</string>
+    <string name="comm_text_community_members">Những thành viên đã đăng ký</string>
+    <string name="comm_text_creator">Người tạo</string>
+    <string name="comm_text_member">Thành viên</string>
+    <string name="comm_text_join">Thành viên</string>
+    <string name="comm_text_notjoin">Không đăng ký</string>
+    <string name="comm_text_dropout">Rút lại</string>
+    <string name="comm_text_general">Chung</string>
+    <string name="comm_text_notice">Thông báo</string>
+    <string name="comm_text_do_you_want_to_leave">Do you want to leave?</string>
+
+    <!--Messenger-->
+    <string name="msg_text_system">System messege</string>
+    <string name="msg_text_set">Lập chat room</string>
+    <string name="msg_text_exit">Rời khỏi</string>
+    <string name="msg_text_alarm_off">Tắt báo thức chatroom</string>
+    <string name="msg_text_groupname">Vui lòng đặt tên Chatroom</string>
+    <string name="msg_text_deleting_group">Bạn có chắc muốn rời khỏi chatroom không?</string>
+    <string name="msg_text_sticker_download">이모티콘을 사용하려면 다운로드하십시오. \n 3G / LTE 등 데이터 통신 요금이 부과 될 수 있습니다.</string>
+    <string name="msg_text_search_hint">파일명으로 검색</string>
+    <string name="msg_text_file_view">파일 모아보기</string>
+    <string name="msg_text_chat_people">대화상대 보기</string>
+    <string name="msg_text_chat_change_name">대화방 이름 변경</string>
+    <string name="msg_text_share_file">파일을 공유해보세요!</string>
+    <string name="msg_text_no_file">공유된 파일이 없습니다.</string>
+    <string name="msg_text_no_search">검색 결과가 없습니다.</string>
+    <string name="msg_text_search_end">마지막 검색 결과입니다.</string>
+    <string name="msg_text_withdrawal">정말 탈퇴 시키시겠습니까?</string>
+    <string name="msg_room_withdrawal">해당 방에서 강제탈퇴 되었습니다.</string>
+
+    <!-- Notification -->
+    <string name="noti_text_feed">Thông báo nội dung</string>
+    <string name="noti_text_reply">Thông báo reply</string>
+    <string name="noti_text_community">Thông báo Nhóm</string>
+    <string name="noti_text_messenger">Thông báo tin nhắn</string>
+    <string name="noti_text_email">Thông báo email</string>
+    <string name="noti_text_approval">Thông báo tài liệu điện tử</string>
+    <string name="noti_text_customer">Thông báo của trung tâm khách hàng</string>
+    <string name="noti_text_request_reset_device">Yêu cầu thay đổi cho việc kích hoạt trước đó</string>
+    <string name="more_text_no_more_notification">Không còn thông báo nào khác</string>
+
+    <!-- Profile -->
+    <string name="profile_text_mobilenum">Số di động</string>
+    <string name="profile_text_email_address">Địa chỉ email</string>
+    <string name="profile_text_privateemail_address">Private Email Address</string>
+    <string name="profile_text_empno">Số nhân viên</string>
+    <string name="profile_text_job">Trách nhiệm</string>
+    <string name="profile_text_birth">Ngày sinh</string>
+    <string name="profile_text_chat">Đang trò chuyện</string>
+    <string name="profile_text_call">Đang gọi</string>
+    <string name="profile_text_send_text">Gửi tin nhắn văn bản</string>
+    <string name="profile_text_save_phone">Lưu vào danh bạ</string>
+
+    <!-- Calendar -->
+    <string name="cal_text_all_day">Cả ngày</string>
+
+    <!-- More & Settings -->
+    <string name="more_text_change_profile">Sửa hồ sơ</string>
+    <string name="more_text_change_site">Thay đổi trang </string>
+    <string name="more_text_current_site">Thay đổi trang </string>
+    <string name="more_text_changing_site">Chọn trang</string>
+    <string name="more_text_private_setting">THông tin cá nhân</string>
+    <string name="more_text_all_graph_org">Company organization</string>
+    <string name="more_text_logout">Đăng xuất</string>
+    <string name="more_text_approval">Phê duyệt văn bản điện tử</string>
+    <string name="more_text_todo">Nhiệm vụ phải làm</string>
+    <string name="more_text_feed_type">Loại bài đăng</string>
+    <string name="more_text_search_boundary">Loại bài đăng</string>
+    <string name="more_text_versionInfo">Thông tin phiên bản</string>
+    <string name="more_text_about_tigris">TIGRIS là gì?</string>
+    <string name="more_text_faq">FAQ</string>
+    <string name="more_text_lab">Laboratory</string>
+    <string name="more_text_setting_lock">lock setting</string>
+    <string name="more_text_set_password">Thiết lập mật khẩu</string>
+    <string name="more_text_new_password">Mật khẩu mới</string>
+    <string name="more_text_current_password">Mật khẩu cũ</string>
+    <string name="more_text_password_fullchange">Thay đổi toàn bộ mất khẩu</string>
+    <string name="more_text_apply_alarm">Thay đổi toàn bộ mất khẩu</string>
+    <string name="more_text_pinlock_current_pw">Vui lòng nhập short cut number cũ</string>
+    <string name="more_text_pinlock_new_pw">Vui lòng nhập short cut number mới</string>
+    <string name="more_text_pinlock_new_pw_onemore">Vui lòng nhập lại short cut numer mới</string>
+    <string name="more_text_pattern_current">Vui lòng nhập mẫu cũ</string>
+    <string name="more_text_pattern_new">Vui lòng đăng ký khuồn hình mở khóa</string>
+    <string name="more_text_pattern_new_onemore">Vui lòng nhập lại khuôn hình mới</string>
+    <string name="more_text_alarm_mode">Phương thức thông báo</string>
+    <string name="more_text_auto_login">Tự động đăng nhập</string>
+    <string name="more_text_block_alarm">do not alarm</string>
+    <string name="more_text_alarm_no_time">alarm no time</string>
+    <string name="more_text_alarm_system">Hệ thống</string>
+    <string name="more_text_alarm_comm_set">Thông báo bởi tất cả các nhóm</string>
+    <string name="more_text_alarm_newfeed">Hệ thống</string>
+    <string name="more_text_alarm_comment">Reply</string>
+    <string name="more_text_alarm_like">like</string>
+    <string name="more_text_no_more_inquiry">Không có nội dung truy vấn hiển thị</string>
+    <string name="more_text_done">Hoàn thành</string>
+    <string name="more_text_notyet">Không hoàn thành</string>
+    <string name="more_text_inquiry_done">Khi truy vấn hoàn thành</string>
+    <string name="more_text_problem_type">Khi có sự cố xảy ra</string>
+    <string name="more_text_problem_device">Loại thiết bị</string>
+    <string name="more_text_problem_browser">Loại trình duyệt</string>
+    <string name="more_text_problem_detail">Loại trình duyệt</string>
+    <string name="more_text_no_more_devices">Không còn yêu cầu thay đổi thiết bị nào khác</string>
+    <string name="more_text_release_id">Xóa đăng ký thiết bị</string>
+    <string name="more_text_file_view">파일보기</string>
+    <string name="more_text_msg_file_view">대화방 파일</string>
+    <string name="more_text_comm_file_view">커뮤니티 파일</string>
+    <string name="more_text_org_file_view">조직 파일</string>
+    <string name="more_text_file_ext">파일 형식</string>
+    <string name="more_text_file_all">전체</string>
+    <string name="more_text_file_img">사진/동영상</string>
+    <string name="more_text_file_doc">일반 파일</string>
+    <string name="more_text_file_social">소유자</string>
+    <string name="more_text_file_mine">내 파일</string>
+    <string name="more_text_file_sorting">정렬</string>
+    <string name="more_text_file_sort_name">이름 순</string>
+    <string name="more_text_file_sort_createdt">생성 날짜 순</string>
+    <string name="more_text_file_sort_desc">내림차순</string>
+    <string name="more_text_file_sort_aesc">오름차순</string>
+    <string name="more_text_file_no_pre_down">미리보기 및 다운로드를 할 수 없는 파일입니다.</string>
+    <string name="more_text_debug_config">Debug Config</string>
+    <!-- ======================================================================================= -->
+
+    <!-- ========================================= Hint =========================================-->
+    <!-- Login -->
+    <string name="hint_login_id">Đăng nhập ID</string>
+    <string name="hint_login_name">Tên</string>
+    <string name="hint_login_mobile">Số điện thoại</string>
+    <string name="hint_login_email">Số điện thoại</string>
+    <string name="hint_login_reqcert_reason">Lý do thay đổi xác thực thiết bị</string>
+
+    <!-- Feed -->
+    <string name="hint_write_feed">Tạo nội dung (Required)</string>
+    <string name="hint_write_reply">Viết bình luận</string>
+    <string name="hint_write_title">Tạo tiêu đề</string>
+    <string name="hint_write_title_required">Tạo tiêu đề (Required)</string>
+
+    <!--<Messenger>-->
+    <string name="hint_msg_text_search">대화내용 검색</string>
+
+    <!-- Community -->
+    <string name="hint_comm_name">Nhập tên Nhóm</string>
+    <string name="hint_comm_intro">Giới thiệu về Nhóm</string>
+
+    <!-- Setting -->
+    <string name="hint_current_password">Giới thiệu về Nhóm</string>
+    <string name="hint_password_onemore">Vui lòng nhập lại mật khẩu</string>
+    <string name="hint_password_6letter">Vui lòng nhập mật khẩu mới</string>
+    <string name="hint_file_writer_search">소유자명으로 검색</string>
+    <string name="hint_file_name_search">파일명으로 검색</string>
+    <!-- ======================================================================================= -->
+
+    <!-- ========================================= Toast =========================================-->
+    <string name="pop_quit_backbutton">Nếu bạn nhấn nút "quay về" lần nữa, ứng dụng này sẽ hoàn thành</string>
+    <string name="pop_networkerror">Kết nối internet không tốt</string>
+    <string name="pop_networkerror_while_uploading">Lỗi về mạng trong khi tải lên</string>
+    <string name="pop_inner_problem">Lỗi về mạng trong khi tải lên</string>
+    <string name="pop_temporary_problem">Tạm thời có lỗi xảy ra</string>
+    <string name="pop_fail_to_logout">Không thoát ra được do lỗi tạm thời</string>
+    <string name="pop_fail_to_send_reply">Không thể gửi bình luận, đã có lỗi xảy ra</string>
+    <string name="pop_missing_password">Không thoát ra được do lỗi tạm thời</string>
+    <string name="pop_missing_email">Vui lòng nhập email</string>
+    <string name="pop_password_check">Bạn đã đổi mật khẩu. Vui lòng nhập mật khẩu đã thay đổi</string>
+    <string name="pop_fail_to_change_profile">Không thể update. Vui lòng check lại các mục trong Hồ sơ</string>
+    <string name="pop_fail_to_change_password">Vui lòng kiểm tra lại mật khẩu</string>
+    <string name="pop_nophone">Không có số điện thoại </string>
+    <string name="pop_nocontactinfo">Không có số nào trong danh bạ</string>
+    <string name="pop_no_attached_image">Ảnh của bạn không tồn tại trên thiết bị</string>
+    <string name="pop_image_not_allowed">Định dạng file có thể đính kèm (Jpg, png)</string>
+    <string name="pop_file_not_allowed">Định dạng file có thể đính kèm (xls,xlsx,ppt, doc, docx, pdf, hwp, txt)</string>
+    <string name="pop_limit_10">Ảnh/ File không thể chọn hơn quá 10 tấm </string>
+    <string name="pop_limit_size">Đính kèm vượt quá dung lượng cho phép, hãy đính kèm dưới %1$s MB (%2$s MB)</string>
+    <string name="pop_no_more_reply">Không còn replies</string>
+    <string name="pop_no_content">Vui lòng nhập nội dung</string>
+    <string name="pop_no_link_info">Không có thông tin link</string>
+    <string name="pop_insert_link_later">Không thể lấy lại thông tin link hiện tại, vì vậy vui lòng thay mới thông tin khi xuất bản</string>
+    <string name="pop_fail_register_gcm">Thông báo đăng ký thất bại. Vui lòng đăng nhập lại</string>
+    <string name="pop_not_set_up_calendar">Chuưa tạo lịch</string>
+    <string name="pop_no_notifications">Không có lịch sử thông báo</string>
+    <string name="pop_need_content">Bạn ccàn tạo các bài viết</string>
+    <string name="pop_select_targets">Bạn cần chọn mục tiêu</string>
+    <string name="pop_no_more_child">Thành viên liên kết hoặc tổ chức không tồn tại</string>
+    <string name="pop_no_keyword_to_be_searched">Bạn đã không nhập nội dung tìm kiếm</string>
+    <string name="pop_no_new_password">Vui lòng nhập mật khẩu mới</string>
+    <string name="pop_incorrect_password">Mật khẩu không giống nhau</string>
+    <string name="pop_try_to_login_again">Mật khẩu đã thay đổi. Vui lòng đăng nhập lại</string>
+    <string name="pop_password_register">Mật khẩu đã thay đổi. Vui lòng đăng nhập lại</string>
+    <string name="pop_check_pw_overtimes">Đã thử số phím tắt thất bại 03 lần. Vui lòng đăng nhập lại</string>
+    <string name="pop_check_pattern_overtimes">Đã thử hình mẫu không trùng khớp 03 lần. Vui lòng đăng nhập lại</string>
+    <string name="pop_try_to_input_new_pin">Mật khẩu không đúng. Vui lòng nhập lại</string>
+    <string name="pop_pattern_short">Mật khẩu không đúng. Vui lòng nhập lại</string>
+    <string name="pop_pattern_register">Khóa bằng hình mẫu đã được lập</string>
+    <string name="pop_pattern_incorrect">Hình mẫu khác. Vui lòng thử lại</string>
+    <string name="pop_no_feed">Nội dung này đã bị xóa hoặc không tồn tại</string>
+    <string name="pop_success_find_id">ID của bạn đã được gửi đi vì vậy bạn phải tạo email</string>
+    <string name="pop_success_find_pw">Mật khẩu của bạn đã được gửi đi, vì vậy bạn phải tạo email</string>
+    <string name="pop_success_request_device_auth">Đây là thiết bị đã yêu cầu thay đổi tới email công ty của bạn</string>
+    <string name="pop_problem_email">Đã xảy ra lỗi tại trang email</string>
+    <string name="pop_is_not_email_user">Bạn nên sử dụng dịch vụ email để kích hoạt</string>
+    <string name="pop_is_not_approval_user">Bạn nên sử dụng phê duyệt điện tử để kích hoạt</string>
+    <string name="pop_success_change_alarm">Đã thiết lập đồng hồ báo thức</string>
+    <string name="pop_is_preparing">Dịch vụ đang được chuẩn bị</string>
+    <string name="pop_downloading">Tải file</string>
+    <string name="pop_success_download">%1$s hoàn thành tải xuống</string>
+    <string name="pop_fail_download">%1$s có lỗi xảy ra trong quá trình tải xuống</string>
+    <string name="pop_msg_change_name">Vui lòng nhập tên chatroom</string>
+    <string name="pop_added_text_to_clipboard">Nội dung đã được copy</string>
+    <string name="pop_sync_calendar">Đồng bộ hóa được thực hiện tại năm %1$s tháng %2$s</string>
+    <string name="pop_success_sync_calendar">Đồng bộ hóa hoàn tất</string>
+    <string name="pop_disconnect_websocket">bạn không thể nhận được tin nhắn từ người khác. Hãy thử lại.</string>
+    <string name="pop_outsider_cannot_chat">Chức năng này không được áp dụng cho người sử dụng ngoài</string>
+    <string name="pop_flower_permissions">Bạn cần phải được trao quyền để sử dụng tính năng quay số</string>
+    <string name="pop_file_permissions">Bạn cần được trao quyền để có thể đính kèm file</string>
+    <string name="pop_download_file_permissions">Bạn cần được trao quyền để có thể tải file xuống</string>
+    <string name="pop_this_service_permissions">Bạn cần được trao quyền để có thể sử dụng tính năng này</string>
+    <string name="pop_set_permission">Trao quyền</string>
+    <string name="pop_temporary_problem_after_logout">로그인 정보가 유효하지 않아 더 이상 진행할 수 없습니다. 재로그인 해주세요</string>
+    <string name="pop_you_do_not_have_access">You do not have access</string>
+    <string name="pop_failed_to_save_post">Failed to save post</string>
+
+    <string name="format_MMddyyyy_hhmm">%1$s/%2$s/%3$s, %4$s:%5$s</string>
+    <string name="format_MMddyy_hhmm">%1$s/%2$s/%3$s %4$s:%5$s</string>
+    <!-- ======================================================================================= -->
+</resources>

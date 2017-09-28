@@ -1,0 +1,482 @@
+<resources>
+    <!-- ===================================== Title & Text =====================================-->
+    <!-- Common -->
+    <string name="app_title">TIGRIS</string>
+    <string name="account_type">kr.tigercompany.tigris.cloud</string>
+
+    <string name="common_text_yes">Yes</string>
+    <string name="common_text_no">No</string>
+    <string name="common_text_ok">Confirm</string>
+    <string name="common_text_comm_name">Community</string>
+    <string name="common_text_favorite">Favorites</string>
+    <string name="common_text_org">Department</string>
+    <string name="common_text_org_member">Department member</string>
+    <string name="common_text_email">Email</string>
+    <string name="common_text_introduction">Introduce</string>
+    <string name="common_text_public">Public</string>
+    <string name="common_text_private">Private</string>
+    <string name="common_text_date">Date and time</string>
+    <string name="common_text_place">Place</string>
+    <string name="common_text_start">Start</string>
+    <string name="common_text_finish">End</string>
+    <string name="common_text_search">Search</string>
+    <string name="common_text_none">None</string>
+    <string name="common_text_on">ON</string>
+    <string name="common_text_off">OFF</string>
+    <string name="common_seperator_path">></string>
+    <string name="common_text_update">Update</string>
+    <string name="common_text_required">Required</string>
+    <string name="common_text_subscribe">Subscribe</string>
+
+    <!-- Navigation -->
+    <string name="nav_title_home">Home</string>
+    <string name="nav_title_community">Community</string>
+    <string name="nav_title_messenger">Chatting</string>
+    <string name="nav_title_alarm">Notification</string>
+    <string name="nav_title_more">More</string>
+    <string name="nav_title_find_account">Find account</string>
+    <string name="nav_title_find_id">Find ID</string>
+    <string name="nav_title_find_pw">Find password</string>
+    <string name="nav_title_reqcert">Request to change device authentification </string>
+    <string name="nav_title_all_feeds">View all feeds</string>
+    <string name="nav_title_unread_feeds">Unread feeds</string>
+    <string name="nav_title_favor_feeds">Favorite feeds</string>
+    <string name="nav_title_my_comm">My Community</string>
+    <string name="nav_title_my_act">My Activities</string>
+    <string name="nav_title_my_write">Posts created by me</string>
+    <string name="nav_title_my_react">Posts reacted by me</string>
+    <string name="nav_title_my_share">Posts shared by me</string>
+    <string name="nav_title_shared_me">Posts shared to me</string>
+    <string name="nav_title_create_community">Open community</string>
+    <string name="nav_title_basicinfo">Basic information</string>
+    <string name="nav_title_manage_member">Member management</string>
+    <string name="nav_title_accept_join">Accept subscription</string>
+    <string name="nav_title_select_doc">Select document file</string>
+    <string name="nav_title_myinquiry">My inquery</string>
+    <string name="nav_title_search_total">Unified search</string>
+    <string name="nav_title_search_feed">Search Post</string>
+    <string name="nav_title_search_user">User Search</string>
+    <string name="nav_title_my_page">My Page</string>
+    <string name="nav_title_calendar">Calendar</string>
+    <string name="nav_title_notice">Notice</string>
+    <string name="nav_title_invite_comm">Invite to community</string>
+    <string name="nav_title_write_basic">Create a story</string>
+    <string name="nav_title_write_survey">Create a survey</string>
+    <string name="nav_title_write_schedule">Create a schedule</string>
+    <string name="nav_title_write_todo">Create a duty</string>
+    <string name="nav_title_write_share">Create a feed shared</string>
+    <string name="nav_title_feed_detail">Detailed Feed</string>
+    <string name="nav_title_check_members">Personnel viewed</string>
+    <string name="nav_title_shared_scope_person">Personnel shared</string>
+    <string name="nav_title_sharetarget">Where to register</string>
+    <string name="nav_title_select_community">Select Community</string>
+    <string name="nav_title_operator">Operator</string>
+    <string name="nav_title_msg_invite">Invite contacts</string>
+    <string name="nav_title_msg_create">Create chat room</string>
+    <string name="nav_title_update_reply">Modify Comment</string>
+    <string name="nav_title_search_community">Search Community</string>
+    <string name="nav_title_select_cover">Select cover image</string>
+    <string name="nav_title_select_icon">Select icon image</string>
+    <string name="nav_title_manage_community">Manage community</string>
+    <string name="nav_title_manage_file">Attached files</string>
+    <string name="nav_title_msg_member_set">members</string>
+    <string name="nav_title_msg_unread_member">unread members</string>
+    <string name="nav_title_msg_change_name">Change the name of chat room</string>
+    <string name="nav_title_wrotten_feed">작성게시물보기</string>
+    <string name="nav_title_setting">Setting</string>
+    <string name="nav_title_set_simple_password">Short-cut number setting</string>
+    <string name="nav_title_set_pattern">Pattern setting</string>
+    <string name="nav_title_inquiry_detail">Query in detail</string>
+    <string name="nav_title_my_inquiry">Query/My query</string>
+    <string name="nav_title_inquiries">Ask</string>
+    <string name="nav_title_reset_deviceid">Management of requested device change</string>
+    <string name="nav_title_file_org">Org FileView</string>
+    <string name="nav_title_file_comm">Comm FileView</string>
+    <string name="nav_title_file_msg">Msg FileView</string>
+    <string name="nav_title_file_filter">File Filtering</string>
+    <string name="nav_title_tigris_lab">Tigris Lab</string>
+
+    <!-- Menu -->
+    <string name="menu_text_cancel">Cancel</string>
+    <string name="menu_text_change">Change</string>
+    <string name="menu_text_save">Save</string>
+    <string name="menu_text_create">Create</string>
+    <string name="menu_text_create_msger">Chatting</string>
+    <string name="menu_text_add_favorite">Add to favorites</string>
+    <string name="menu_text_invite">invite</string>
+    <string name="menu_text_all_graph_org">Comapny organization</string>
+    <string name="menu_text_reaction">Reaction</string>
+    <string name="menu_text_creation">Creation</string>
+    <string name="menu_text_whole_comm">Whole Community</string>
+    <string name="menu_text_favorite_comm">Favorite Community</string>
+    <string name="menu_text_popular_comm">Hot Community</string>
+    <string name="menu_text_latest_comm">Latest Community</string>
+    <string name="menu_text_my_org">My Organization</string>
+    <string name="menu_text_post">Post</string>
+    <string name="menu_text_detail">Detailed information</string>
+    <string name="menu_text_noti_readall">All read</string>
+    <string name="menu_text_calendar_basic">Calendar type</string>
+    <string name="menu_text_calendar_list">List type</string>
+    <string name="menu_text_calendar_sync">synchronization</string>
+    <string name="menu_text_search_user">Name search</string>
+    <string name="menu_text_all_schedules">All Schedules</string>
+    <string name="menu_text_my_schedules">My Schedules</string>
+
+    <!-- Util -->
+    <string name="util_text_how_file_handle">What kind of work do you want?</string>
+    <string name="util_text_download">Download</string>
+    <string name="util_text_preview">Preview</string>
+    <string name="util_text_selected_image">It is a selected image</string>
+    <string name="util_text_start">Start time</string>
+    <string name="util_text_finish">End time</string>
+    <string name="util_text_location">Location</string>
+    <string name="util_text_select_target">Please select a target from the menu below</string>
+    <string name="util_text_download_image">Download in my photo box</string>
+    <string name="util_text_show_flower">View flower</string>
+    <string name="util_text_widget_shorcut">Tigris : Shortcut</string>
+    <string name="util_text_crop">Crop</string>
+    <string name="util_text_rotate">Rotate</string>
+    <string name="util_text_unknownname">UnknownName</string>
+
+    <!-- Login -->
+    <string name="intro_text_login">Login</string>
+    <string name="intro_text_login_find_idpw">Find ID, password</string>
+    <string name="intro_text_login_findid">Find ID</string>
+    <string name="intro_text_login_findpw">Find password</string>
+    <string name="intro_text_login_find_account">ID and password are sent to your company email address. \n After entering correct information for your identity, \n press find ID and password.</string>
+    <string name="intro_text_login_change_device">기기인증은 사이트 운영자 승인후 처리됩니다.\n처리 된 후 등록된 개인 이메일로 승인 결과를 알려드립니다\n</string>
+    <string name="intro_text_version_check_message">New version is found. Would you like to update?</string>
+    <string name="intro_text_request_change_device">Already authenticated device information is found.\n Would you like to move to the screen requesting to change device authentication?</string>
+    <string name="intro_text_change_site"> has a new notification. Would you like to switch?</string>
+    <string name="intro_text_underconstruction_title">The system is now checking</string>
+    <string name="intro_text_underconstruction_sub">We are checking the system for better service.</string>
+    <string name="intro_text_underconstruction_duration">%1$s\n~ %2$s</string>
+    <string name="intro_text_force_update">This is information of update message for TIGRIS 4.0.\n\nIt would be more reliable service available if you update to the latest version.\nAnd you can use safely our service with latest version.\nThank you.\n\nTIGRIS service center</string>
+
+    <!-- Feed -->
+    <string name="feed_text_check">Look up</string>
+    <string name="feed_text_like">Like</string>
+    <string name="feed_text_unlike">Unlike</string>
+    <string name="feed_text_reply">Comment</string>
+    <string name="feed_text_share">Share</string>
+    <string name="feed_text_link">Link Information</string>
+    <string name="feed_text_add_link">Add Link</string>
+    <string name="feed_text_attachedfile">Attached Files</string>
+    <string name="feed_text_attachedimage">Images</string>
+    <string name="feed_text_no_more_feed">No more feed to display</string>
+    <string name="feed_text_feed_state">State</string>
+    <string name="feed_text_add_title">Add title +</string>
+    <string name="feed_text_attendee">Attendee</string>
+    <string name="feed_text_absentee">Absentee</string>
+    <string name="feed_text_noanswer">Unanswered</string>
+    <string name="feed_text_myanswer">My answer</string>
+    <string name="feed_text_sharedinfo1">is shared the feed of&#160;</string>
+    <string name="feed_text_sharedinfo2"> </string>
+    <string name="feed_text_show_all_reply">All Replies</string>
+    <string name="feed_text_show_more_reply">More Replies</string>
+    <string name="feed_text_sender">Sender</string>
+    <string name="feed_text_receiver">Recipient</string>
+    <string name="feed_text_cc">CC</string>
+    <string name="feed_text_bcc">BCC</string>
+    <string name="feed_text_copyfeed">Text copy</string>
+    <string name="feed_text_copy">Copy</string>
+    <string name="feed_text_modify">Modify</string>
+    <string name="feed_text_delete">Delete</string>
+    <string name="feed_text_whole_period">All time periods</string>
+    <string name="feed_text_whole_community">All orgs and communities</string>
+    <string name="feed_text_survey_open_result">Disclose result</string>
+    <string name="feed_text_survey_close_result">Close result</string>
+    <string name="feed_text_survey_open_list">Disclose attendee</string>
+    <string name="feed_text_survey_close_list">Close attendee</string>
+    <string name="feed_text_single_select">Single selection</string>
+    <string name="feed_text_multiple_select">Multiple seletcion</string>
+    <string name="feed_text_deleting_feed">This feed will be deleted. Are you sure you want to delete it?</string>
+    <string name="feed_text_deleting_reply">This reply will be deleted. Are you sure you want to delete it?</string>
+    <string name="feed_text_new_feed">It has registered a new article</string>
+    <string name="feed_text_new_reply">It has registered a new reply</string>
+
+    <!-- Writing -->
+    <string name="writing_text_add_item">Add item</string>
+    <string name="writing_text_survey_result">Result</string>
+    <string name="writing_text_survey_close">Closed</string>
+    <string name="writing_text_survey_expired_date">End date</string>
+    <string name="writing_text_survey_multi_select">Multiple selection</string>
+    <string name="writing_text_todo_date">Duty time</string>
+    <string name="writing_text_schedule_noti">Prior notification</string>
+    <string name="writing_text_finish">Contens that you are creating will be deleted.  Are you sure want to exit?</string>
+    <string name="writing_text_shart_target">Input targets</string>
+    <string name="writing_text_only_preview">* When checkbox is checked, only preview</string>
+    <string name="writing_text_preview">preview</string>
+
+    <!-- Community -->
+    <string name="comm_text_community_open">Whether to disclose community</string>
+    <string name="comm_text_community_type">Community type</string>
+    <string name="comm_text_community_join_type">Joining method</string>
+    <string name="comm_text_community_join_state">Status of subscription</string>
+    <string name="comm_text_general_community">General community</string>
+    <string name="comm_text_notice_community">Notice community</string>
+    <string name="comm_text_join_rightafter">Subscription upon request</string>
+    <string name="comm_text_join_after_accept">Subscription after approval</string>
+    <string name="comm_text_waiting_join">Pending approval</string>
+    <string name="comm_text_ask_operator">Contact administrator</string>
+    <string name="comm_text_add_target">Additional target</string>
+    <string name="comm_text_add_member">Add individual users</string>
+    <string name="comm_text_add_org_graph">Add connected organization chart</string>
+    <string name="comm_text_force_dropout">Withdraw forcibly</string>
+    <string name="comm_text_refuse_request">Give back subscription</string>
+    <string name="comm_text_community_members">Members joined</string>
+    <string name="comm_text_creator">Creator</string>
+    <string name="comm_text_member">Member</string>
+    <string name="comm_text_join">Join</string>
+    <string name="comm_text_notjoin">Unjoin</string>
+    <string name="comm_text_dropout">Drop out</string>
+    <string name="comm_text_general">General</string>
+    <string name="comm_text_notice">Notice</string>
+    <string name="comm_text_do_you_want_to_leave">Do you want to leave?</string>
+
+    <!--Messenger-->
+    <string name="msg_text_system">System messege</string>
+    <string name="msg_text_set">Chat room setting</string>
+    <string name="msg_text_exit">Leave</string>
+    <string name="msg_text_alarm_off">Alarm off chat room</string>
+    <string name="msg_text_alarm_on">Alarm on chat room</string>
+    <string name="msg_text_groupname">Please input name of chat room</string>
+    <string name="msg_text_deleting_group">Are you sure you want to leave chat room?</string>
+    <string name="msg_text_sticker_download">Please download to use emoticons. \n
+                                             3G / LTE and other data communication charges may apply.</string>
+    <string name="msg_text_search_hint">search by file name</string>
+    <string name="msg_text_file_view">File View</string>
+    <string name="msg_text_chat_people">Chat People</string>
+    <string name="msg_text_chat_change_name">Change Room name</string>
+    <string name="msg_text_share_file">Share file</string>
+    <string name="msg_text_no_file">There is no file</string>
+
+    <string name="msg_text_no_search">There is no search result</string>
+    <string name="msg_text_search_end">This is a last search result</string>
+
+    <string name="msg_text_withdrawal">Would you really like to withdrawal?</string>
+    <string name="msg_room_withdrawal">You have been forcibly removed from the room.</string>
+
+
+
+    <!-- Notification -->
+    <string name="noti_text_feed">Feed notification</string>
+    <string name="noti_text_reply">Comment notification</string>
+    <string name="noti_text_community">Community notification</string>
+    <string name="noti_text_messenger">Messenger notification</string>
+    <string name="noti_text_email">Email notification</string>
+    <string name="noti_text_approval">Approval notification</string>
+    <string name="noti_text_customer">Notification of customer center</string>
+    <string name="noti_text_request_reset_device">Change request for previous authentication</string>
+    <string name="more_text_no_more_notification">There is no notification anymore</string>
+
+    <!-- Profile -->
+    <string name="profile_text_mobilenum">Mobile number</string>
+    <string name="profile_text_email_address">Email Address</string>
+    <string name="profile_text_privateemail_address">Private Email Address</string>
+    <string name="profile_text_empno">Employee Number</string>
+    <string name="profile_text_job">Responsibility</string>
+    <string name="profile_text_birth">Date of birth</string>
+    <string name="profile_text_chat">Chatting</string>
+    <string name="profile_text_call">Dialing</string>
+    <string name="profile_text_send_text">Sending SMS</string>
+    <string name="profile_text_save_phone">Save contact number</string>
+
+    <!-- Calendar -->
+    <string name="cal_text_all_day">All day</string>
+
+    <!-- More & Settings -->
+    <string name="more_text_change_profile">Modify Profile</string>
+    <string name="more_text_change_site">Change site</string>
+    <string name="more_text_current_site">Current site</string>
+    <string name="more_text_changing_site">Select site</string>
+    <string name="more_text_private_setting">Personal information</string>
+    <string name="more_text_all_graph_org">Organization</string>
+    <string name="more_text_logout">Log out</string>
+    <string name="more_text_approval">Approval</string>
+    <string name="more_text_todo">To Do</string>
+    <string name="more_text_feed_type">Feed type</string>
+    <string name="more_text_search_boundary">Search scope</string>
+    <string name="more_text_versionInfo">Version information</string>
+    <string name="more_text_about_tigris">What\'s Tigris?</string>
+    <string name="more_text_faq">FAQ</string>
+    <string name="more_text_lab">Laboratory</string>
+    <string name="more_text_setting_lock">lock setting</string>
+    <string name="more_text_set_password">Password setting</string>
+    <string name="more_text_new_password">New password</string>
+    <string name="more_text_current_password">Old password</string>
+    <string name="more_text_password_fullchange">Change password</string>
+    <string name="more_text_apply_alarm">Apply alarm change</string>
+    <string name="more_text_pinlock_current_pw">Enter old short-cut number</string>
+    <string name="more_text_pinlock_new_pw">Enter new short-cut number</string>
+    <string name="more_text_pinlock_new_pw_onemore">Re-enter new short-cut number</string>
+    <string name="more_text_pattern_current">Enter old pattern</string>
+    <string name="more_text_pattern_new">Enter new pattern</string>
+    <string name="more_text_pattern_new_onemore">Re-enter new pattern</string>
+    <string name="more_text_alarm_mode">Notification mode</string>
+    <string name="more_text_auto_login">Automatic login</string>
+    <string name="more_text_block_alarm">do not alarm</string>
+    <string name="more_text_alarm_no_time">alarm no time</string>
+    <string name="more_text_alarm_system">Notification system</string>
+    <string name="more_text_alarm_comm_set">Notification by all communities</string>
+    <string name="more_text_alarm_newfeed">Notification new feed</string>
+    <string name="more_text_alarm_comment">Notification_reply</string>
+    <string name="more_text_alarm_like">Notification like</string>
+    <string name="more_text_no_more_inquiry">No more queries to display</string>
+    <string name="more_text_done">Done</string>
+    <string name="more_text_notyet">Not yet</string>
+    <string name="more_text_inquiry_done">Whether query is complete or not</string>
+    <string name="more_text_problem_type">Where the problem occurred</string>
+    <string name="more_text_problem_device">Device types</string>
+    <string name="more_text_problem_browser">Browser types</string>
+    <string name="more_text_problem_detail">Query details</string>
+    <string name="more_text_no_more_devices">There is no request of device change anymore</string>
+    <string name="more_text_release_id">해제</string>
+    <string name="more_text_file_view">File View</string>
+    <string name="more_text_msg_file_view">Msg File View</string>
+    <string name="more_text_comm_file_view">Community File View</string>
+    <string name="more_text_org_file_view">Org File View</string>
+    <string name="more_text_file_ext">File Ext</string>
+    <string name="more_text_file_all">All File</string>
+    <string name="more_text_file_img">Image Play File</string>
+    <string name="more_text_file_doc">Doc File</string>
+    <string name="more_text_file_social">social</string>
+    <string name="more_text_file_mine">My File</string>
+    <string name="more_text_file_sorting">File Sorting</string>
+    <string name="more_text_file_sort_name">Sorting Name</string>
+    <string name="more_text_file_sort_createdt">Sorting CreateDt</string>
+    <string name="more_text_file_sort_desc">Sorting desc</string>
+    <string name="more_text_file_sort_aesc">Sorting aesc</string>
+    <string name="more_text_file_no_pre_down">This file can not be previewed and downloaded.</string>
+    <string name="more_text_version_info_event">Have a good Day:)</string>
+    <string name="more_text_debug_config">Debug Config</string>
+
+    <!-- tigris lab-->
+    <string name="tigris_lab_welcome_to_tigris_lab">Welcome to Tigris Laboratory</string>
+    <string name="tigris_lab_picture_quality_down">Set image quality</string>
+    <string name="tigris_lab_picture_quality_up">Set image upload quality</string>
+    <string name="tigris_lab_quality_normal">Normal</string>
+    <string name="tigris_lab_quality_high">High</string>
+    <string name="tigris_lab_quality_very_high">Very High</string>
+    <string name="tigris_lab_quality_original">Original</string>
+
+    <!-- ======================================================================================= -->
+
+    <!-- ========================================= Hint =========================================-->
+    <!-- Login -->
+    <string name="hint_login_id">Login ID</string>
+    <string name="hint_login_password">Password</string>
+    <string name="hint_login_name">Name</string>
+    <string name="hint_login_mobile">Mobile Number (Ex : 010-1234-5678)</string>
+    <string name="hint_login_email">Personal email Address</string>
+    <string name="hint_login_reqcert_reason">Reason for changing device authentication</string>
+
+    <!-- Feed -->
+    <string name="hint_write_feed">Input the content (Required)</string>
+    <string name="hint_write_reply">Input the comment</string>
+    <string name="hint_insert_url">http://</string>
+    <string name="hint_write_title">Input the title</string>
+    <string name="hint_write_title_required">Input the title (Required)</string>
+
+    <!--<Messenger>-->
+    <string name="hint_msg_text_search">Search for conversation contents</string>
+
+    <!-- Community -->
+    <string name="hint_comm_name">Input the name of community</string>
+    <string name="hint_comm_intro">Introduction about community</string>
+
+    <!-- Setting -->
+    <string name="hint_current_password">Enter old password</string>
+    <string name="hint_password_onemore">Re-enter password</string>
+    <string name="hint_password_6letter">Enter new password</string>
+    <string name="hint_file_writer_search">Search by writer</string>
+    <string name="hint_file_name_search">Search by filename</string>
+    <!-- ======================================================================================= -->
+
+    <!-- ========================================= Toast =========================================-->
+    <string name="pop_quit_backbutton">If you press back button again, the app is finished</string>
+    <string name="pop_networkerror">Network connection is not good</string>
+    <string name="pop_networkerror_while_uploading">A network problem has been encountered while uploading</string>
+    <string name="pop_inner_problem">Internally a problem has been encountered</string>
+    <string name="pop_temporary_problem">Temporarily a problem has been encountered</string>
+    <string name="pop_fail_to_logout">Failed to log out due to a temporary problem</string>
+    <string name="pop_fail_to_send_reply">It cannot be sent your comment because of temporary problem</string>
+    <string name="pop_while_uploading">Now uploading. Please wait.</string>
+    <string name="pop_missing_password">Please enter password</string>
+    <string name="pop_missing_email">Please enter your Email</string>
+    <string name="pop_password_check">Password has changed from different path. \nEnter the changed password</string>
+    <string name="pop_fail_to_change_profile">Failed to update. Double check the profile entries</string>
+    <string name="pop_fail_to_change_password">Check the password again</string>
+    <string name="pop_nophone">There is no registered phone number</string>
+    <string name="pop_nocontactinfo">There is no contact info</string>
+    <string name="pop_no_attached_image">There is no the image you selected on the device</string>
+    <string name="pop_image_not_allowed">File format which can be attached (jpg, png)</string>
+    <string name="pop_file_not_allowed">File format which can be attached (xls, xlsx, ppt, pptx, doc, docx, pdf, hwp, txt)</string>
+    <string name="pop_limit_10">For image/file, more than ten sheets cannot be selected</string>
+    <string name="pop_limit_size">Please attach below %1$s MB because attached image/file exceed %2$s MB</string>
+    <string name="pop_no_more_reply">No more replies</string>
+    <string name="pop_no_content">Enter the content</string>
+    <string name="pop_no_link_info">Unknown link information</string>
+    <string name="pop_insert_link_later">Failed to retrieve the current link information, therefore information is renewed when publishing</string>
+    <string name="pop_fail_register_gcm">Failed to register notification. Log in again</string>
+    <string name="pop_not_set_up_calendar">Calendar is not set</string>
+    <string name="pop_no_notifications">There is no history of notification</string>
+    <string name="pop_need_content">You should input the entries</string>
+    <string name="pop_select_targets">You should select the target</string>
+    <string name="pop_no_more_child">There is no member or organization</string>
+    <string name="pop_no_keyword_to_be_searched">You have not entered a search content</string>
+    <string name="pop_no_new_password">Please enter your new password</string>
+    <string name="pop_incorrect_password">Passwords are not the same</string>
+    <string name="pop_try_to_login_again">Password has changed. Log in again</string>
+    <string name="pop_password_register">Short-cut number lockout is set</string>
+    <string name="pop_check_pw_overtimes">Old short-cut number failed three times. Log in again</string>
+    <string name="pop_check_pattern_overtimes">Old pattern does not match three times. Log in again</string>
+    <string name="pop_try_to_input_new_pin">Password does not match. \nRe-enter password</string>
+    <string name="pop_pattern_short">Enter at least 4 points</string>
+    <string name="pop_pattern_register">Pattern lockout is set</string>
+    <string name="pop_pattern_incorrect">Pattern is different. Please try again</string>
+    <string name="pop_no_feed">This feed has been deleted or does not exist</string>
+    <string name="pop_success_find_id">The ID was sent to mail which you wrote</string>
+    <string name="pop_success_find_pw">The Password was sent to email which you wrote</string>
+    <string name="pop_success_request_device_auth">It has been requested the manager to change device authentication</string>
+    <string name="pop_problem_email">Email page has encountered problems</string>
+    <string name="pop_is_not_email_user">You should apply for email service to enable it</string>
+    <string name="pop_is_not_approval_user">You should apply for electronic approval service to enable it</string>
+    <string name="pop_success_change_alarm">Alarm setting is applied</string>
+    <string name="pop_is_preparing">Service is being prepared</string>
+    <string name="pop_downloading">The file is being downloaded</string>
+    <string name="pop_success_download">%1$s is now complete download</string>
+    <string name="pop_fail_download">%1$s failed during the download</string>
+    <string name="pop_msg_change_name">Enter the name of chat room</string>
+    <string name="pop_added_text_to_clipboard">The text is copied in clipboard</string>
+    <string name="pop_sync_calendar">It would be started to synchronize at %1$s year %2$s month</string>
+    <string name="pop_success_sync_calendar">The synchronization has completed</string>
+    <string name="pop_disconnect_websocket">you may not be able to receive the message of the other. Please try it again.</string>
+    <string name="pop_outsider_cannot_chat">it will not be able to use this feature for external users</string>
+    <string name="pop_flower_permissions">You must grant authorization for using the dial function</string>
+    <string name="pop_file_permissions">You must grant authorization for attaching file</string>
+    <string name="pop_download_file_permissions">You must grant authorization for downloading file</string>
+    <string name="pop_this_service_permissions">You must grant authorization for using this function</string>
+    <string name="pop_set_permission">Authorization</string>
+    <string name="pop_temporary_problem_after_logout">로그인 정보가 유효하지 않아 더 이상 진행할 수 없습니다. 재로그인 해주세요</string>
+    <string name="pop_you_do_not_have_access">You do not have access</string>
+    <string name="pop_failed_to_save_post">Failed to save post</string>
+
+    <string name="error_text_page_not_found">Page not found</string>
+    <string name="error_text_internal_server_error">Internal server error</string>
+
+    <string name="format_MMddyyyy_hhmm">%1$s/%2$s/%3$s, %4$s:%5$s</string>
+    <string name="format_MMddyy_hhmm">%1$s/%2$s/%3$s %4$s:%5$s</string>
+    <!-- ======================================================================================= -->
+
+    <!-- ======================================= Waste ========================================= -->
+    <!-- Accessibility description sent when user starts drawing a lock pattern. -->
+    <string name="lockscreen_access_pattern_start">Pattern started</string>
+    <!-- Accessibility description sent when the pattern times out and is cleared. -->
+    <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
+    <!-- Accessibility description sent when user adds a cell to the pattern. -->
+    <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+    <!-- Accessibility description sent when user completes drawing a pattern. -->
+    <string name="lockscreen_access_pattern_detected">Pattern completed</string>
+    <!-- ======================================================================================= -->
+</resources>
